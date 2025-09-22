@@ -10,3 +10,7 @@ Desarrollando sistemas de señalización hospitalaria en todo el país, investig
 
 Soy papá de Santi, de 19 años, esposo y compañero de Myriam desde hace 30 veranos. Gracias a su apoyo, soy licenciado en Diseño de Comunicación Visual por la FADU-Udelar y trabajo en la interfaz visual que existe entre las cosas y las personas. Me gusta explicar el mundo en 3 dimensiones.
 
+
+
+
+
