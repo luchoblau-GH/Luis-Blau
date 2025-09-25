@@ -463,8 +463,29 @@
                 
                 
                 <h1 id="mt01">MT01<a class="headerlink" href="#mt01" title="Permanent link">&para;</a></h1>
-<p>El proceso de preparación del aparato de programas es complejo y require práctica para poder dominar con fluidez el método. </p>
+<p>El proceso de preparación del aparato de programas es complejo y require práctica para poder dominar con fluidez el método. se necesitan instalar 5 aplicaciones para gestionar la bitacora en formato WEB: Git, Github, Visual Studio Code, Python y Markdoc.</p>
 <p><img alt="" src="../../images/ProcesoMT01.jpg" /></p>
+<p>El primer paso es instalar una herramienta de control de versiones, util en caso tener la necesidad de recuperar versiones de archivos modificados. Se instala la herramienta y lo que me llamo la atencion es la interface visual, se parece al cuadro de DOS previo al window. A ese cuadro se le llama Consola y se trabaja con comandos de programasion. Para iniciar la consola se presiona la tecla windows mas la tecla R y luego en el cuadro que aparece se escribe cdm. Una vez abiera la conola como se ve en la imagen se usa el comando: code para ir al programa Visual Studio Code que instalamos previamente</p>
+<p><img alt="" src="../../images/capt-consola2.jpg" /></p>
+<p>El sistema Git trabaja con una plataforma que se llama GitHub donde se alojan todos los archivos ordenados en distintas carpetas correspondientes a un proyecto determinado, a ese conjunto se le llama <strong>Repositorio</strong>. La instalación de <a href="https://github.com/">GitHub</a> se hace desde la página Web oficial de forma gratuita, solo hay que hacer una cuenta. Una vez creada la cuenta hay que cargar el repositorio que en este caso es el creado por el equipo de la EFDI y lo que se hace es clonarlo en nuestro equipo.</p>
+<p>Pero antes hay que proteger la información de acceso con una llave digital que se llama SSH.En la consola se escribe el comoando <strong>ssh-keygen -&ldquo;tu mail&rdquo;</strong> para crear la clave. Enter tres veses y queda a la espera para conectar con GitHub.</p>
+<p><img alt="" src="../../images/capt-consola4.png" /></p>
+<p>La clave generada queda guardada automaticamente a la carpeta c:user/usuario/.ssh y es el archivo id_rsa.pub, que se debe abrir con bloc de notas y copiar el contenido.
+Vamos a Github, desde el menu del perfil, hasta Setins y en el menu izquierdo SSH and GPG keys, boton New SSH Key y se pega el contenido que se copio del archivo id_rsa.pub en el espacio que dice Key, botón de Add SSH key. Pide validar se copia el número de verificación que manda automaticamente al mail y voalaaa.  </p>
+<p><img alt="" src="../../images/capt-github1.png" /></p>
+<p>Ahora se vuelve a la consola y se escribe el comoando <strong>ssh-T git @github.com</strong> para acceder al repositorio y conectar git con github a traves de la llave. Nadie mas que el propietario del computador puede acceder al repositorio colonado. Una vez ingresado el comando aparece en la consola el saludo de autorización y acceso con el nombre de usuario de la cuenta de GitHub.</p>
+<p><img alt="" src="../../images/capt-consola5.png" /></p>
+<p><img alt="" src="../../images/capt-consola6.png" /></p>
+<p>Bien ahora si hay que cargar el repositorio facilitado por el equipo EFDI donde esta la plantilla de la web. En GitHub se va al boton Fork que esta hacia la derecha abajo de la barra de menus. Abre la pagina de Create a new fork y en el campo Repository name ponemos el nombre_apellido le damos al boton de Create fork. </p>
+<p><img alt="" src="../../images/Github-Fork.png" /></p>
+<p><em>Parentesis, varios habian dado al boton Create fork sin los pasos previos de crear la clave y demas. Para borrar el repositorio se va al menú settings y el ultimo campo es borrar repositorio.</em></p>
+<p>Bien seguimos con Crete fork, abre el cuadro para configurar nombre y apellido, descripcion se le da al boton crear fork otra vez. se va al menu Action para activarla, luego a code nuevamente y buscamos el campo README edición en el icono del lapiz se personalisa los datos con el mismo nombre de la cuenta GitHub, boton de Comit change, otra vez Comit change. si vamos al menú Action se visualiza el porceso que hace el servidor. En el archovo mkdocs.yml se actualizan los datos, comit change dos vesces. Otra vez vamos a Action y en la interfaz se ven 3 rectangulos conectados, en el que se llama dploy esta la ruta de la pagina web de cada uno.</p>
+<p><img alt="" src="../../images/Github-Action.png" /></p>
+<p><img alt="" src="../../images/Web.png" /></p>
+<p>El mantenimiento y la gestion de contenidos nuevos se hace en Visual Studio Code una vez instalado desde la pagina oficial, se habre desde la consola con el comando <strong>code</strong> espacio enter.</p>
+<p><img alt="" src="../../images/VSCode.png" /></p>
+<p>En la barra lateral izquierda estan los iconos de navegacion, el primero es el explorador donde estan todos los archivos de la plantilla, donde aparecen todos los archivos que alojamos en las carpetas del proyecto. El tercer icono es el de confirmar los cambios. cada vez que se midifica algo queda registrado en esa base de datos. En el apartado inverior queda la lista de cambios realizados y en la parte superior esta el boton de <strong>Commit</strong> antes de confirmar se debe poner un nombre al cambio para que pase a la lista inferior. es importante poner el nombre porque sin eso el boton de commit no va a funcionar.</p>
+<h1 id="esto-es-todo-amigo">Esto es todo amigo!!!<a class="headerlink" href="#esto-es-todo-amigo" title="Permanent link">&para;</a></h1>
                 
                   
                     
@@ -473,7 +494,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 22, 2025 00:36:01 UTC">September 22, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 25, 2025 21:07:57 UTC">September 25, 2025</span>
     
   </small>
 </div>
