@@ -1,5 +1,7 @@
-## Welcome
+## Bienvenidos a mi Bitácora Web
 
-![](../images/perezoso.jpg)
+![](./images/inicio.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Te voy a contar aqui mi porceso de avances en la especialización paso a paso cada una de las etapas de este aprendizaje. Los metodos aplicados, las referencias bibilograficas, las fallas y los producto logrados. Espero sea útil por cualquier comentarios que quieras hacerme te dejo aca mi correo: luchoblau@gmail.com 
+
+# **Gracias**
