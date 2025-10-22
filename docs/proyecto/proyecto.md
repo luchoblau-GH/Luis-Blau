@@ -17,6 +17,7 @@ Por otro lado, la reproducción de mecanismos de impresión directa que permitan
 
 De esta forma, el proyecto se equilibra entre la recuperación patrimonial y la experimentación tecnológica, articulando lo abierto y colaborativo con lo productivo y aplicable.
 
+
 ---
 
 **El objetivo principal** es poner en valor la cultura gráfica nacional a través de la reproducción de modelos históricos de impresión que formaron parte del desarrollo gráfico en nuestro país.
