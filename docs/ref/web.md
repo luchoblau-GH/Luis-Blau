@@ -1,4 +1,6 @@
-laskdjlkasjdsa
-laskdjasljd
+---
+hide:
+    - toc
+---
 
 ## Modulo
