@@ -5,7 +5,7 @@ hide:
 
 # Ideas Iniciales
 
-![](../images/Proyecto/proy-a.jpg)
+![](../images/proy-a.jpg)
 
 **Introducción**
 
