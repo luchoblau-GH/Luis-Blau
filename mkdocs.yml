@@ -31,9 +31,7 @@ nav:
   - Modulos Innovación :
     - MI01: innovacion/mi01.md
     - MI02: innovacion/mi02.md
-    - MI03: innovacion/mi03.md
-  - Emprendedurismo:
-    - Modulo autogiensionado: emprender/emag.md
+    - MI03: innovacion/mi03.md 
   - Proyecto Integrador:
     - Ideas Iniciales: proyecto/proyecto.md
   - Referencias:
@@ -95,8 +93,8 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
-      toc_depth: 3
-      
+
+
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -106,7 +104,7 @@ markdown_extensions:
   - codehilite
   - footnotes
   - toc:
-      permalink: true
+      permalink: true      
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
