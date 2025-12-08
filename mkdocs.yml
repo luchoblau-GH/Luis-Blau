@@ -84,47 +84,45 @@ plugins:
       fallback_to_build_date: true
 
 markdown_extensions:
+  # Extensiones básicas
   - extra
   - smarty
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  - def_list
+  - footnotes
+  - attr_list
+  - md_in_html
+
+  # Código y bloques avanzados
   - codehilite:
       guess_lang: false
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      base_path: 'docs'
+
+  # TOC (Índice)
   - toc:
       permalink: true
+      toc_depth: 3    # hasta ### en el índice de la derecha
 
-
-  - def_list
+  # PymdownX extra
   - pymdownx.tasklist:
       custom_checkbox: true
-
-  - md_in_html
-  - admonition
-  - codehilite
-  - footnotes
-  - toc:
-      permalink: true      
-  - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
-  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      base_path: 'docs'
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - pymdownx.tilde
-  - attr_list
   - pymdownx.tabbed
+  - pymdownx.arithmatex
+
 
 extra_css:
   - stylesheets/extra.css
