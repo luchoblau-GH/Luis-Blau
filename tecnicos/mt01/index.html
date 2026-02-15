@@ -634,21 +634,21 @@
 <p><em>Introducción a herramientas digitales</em></p>
 <p>El proceso de preparación del aparato de programas es complejo y requiere práctica para poder dominar con fluidez el método. Se necesitan instalar cinco aplicaciones para gestionar la bitácora en formato web: Git, GitHub, Visual Studio Code, Python y Markdoc.</p>
 <p><img alt="" src="../../images/ProcesoMT01.jpg" /></p>
-<p>El primer paso es instalar una herramienta de control de versiones, útil en caso de necesitar recuperar archivos modificados. Una vez instalada, lo que me llamó la atención fue su interfaz visual: se parece al cuadro de DOS previo a Windows. A ese cuadro se le llama Consola, y se trabaja con comandos de programación. Para iniciarla se presiona la tecla Windows + R y, en el cuadro que aparece, se escribe cmd. Una vez abierta la consola, como se ve en la imagen, se usa el comando code para ir al programa Visual Studio Code previamente instalado.</p>
+<p>El primer paso es instalar una herramienta de control de versiones, útil en caso de necesitar recuperar archivos modificados. Una vez instalada, lo que me llamó la atención fue su interfaz visual: se parece al cuadro de DOS previo a Windows. A ese cuadro se le llama Consola, y se trabaja con comandos de programación. Para iniciarla, se presiona la tecla Windows + R y, en el cuadro que aparece, se escribe cmd. Una vez abierta la consola, como se ve en la imagen, se usa el comando code para ir al programa Visual Studio Code previamente instalado.</p>
 <p><img alt="" src="../../images/capt-consola2.jpg" /></p>
 <p>El sistema Git trabaja con una plataforma llamada GitHub, donde se alojan todos los archivos ordenados en distintas carpetas correspondientes a un proyecto determinado. A ese conjunto se le llama <strong>Repositorio</strong>. La instalación de <a href="https://github.com/">GitHub</a> se realiza desde la página web oficial de forma gratuita: solo hay que crear una cuenta. Una vez creada, hay que cargar el repositorio —en este caso, el creado por el equipo de la EFDI— y clonarlo en nuestro equipo.</p>
-<p>Pero antes es necesario proteger la información de acceso con una llave digital llamada SSH. En la consola se escribe el comando:<strong>ssh-keygen - &ldquo;tu mail&rdquo;</strong> para crear la clave. Se presiona Enter tres veces y queda a la espera para conectar con GitHub.</p>
+<p>Pero antes es necesario proteger la información de acceso con una llave digital llamada SSH. En la consola se escribe el comando: <strong>ssh-keygen - &ldquo;tu mail&rdquo;</strong> para crear la clave. Se presiona Enter tres veces y queda a la espera para conectar con GitHub.</p>
 <p><img alt="" src="../../images/capt-consola4.png" /></p>
 <p>La clave generada queda guardada automáticamente en la carpeta: <strong>c:/user/usuario/.ssh</strong>
-y se guarda en el archivo <strong>id_rsa.pub</strong>, que debe abrirse con Bloc de notas para copiar su contenido.</p>
-<p>En GitHub, desde el menú de perfil, se va a <strong>Settings &gt; SSH and GPG Keys</strong> y se presiona el botón <strong>New SSH Key</strong>. Ahí se pega el contenido copiado del archivo id_rsa.pub en el campo Key y se confirma con el botón <strong>Add SSH key</strong>. Luego, GitHub pide validación: se ingresa el número de verificación enviado automáticamente al correo y ¡voilá!</p>
+Y se guarda en el archivo <strong>id_rsa.pub</strong>, que debe abrirse con Bloc de notas para copiar su contenido.</p>
+<p>En GitHub, desde el menú de perfil, se va a <strong>Settings &gt; SSH and GPG Keys</strong> y se presiona el botón <strong>New SSH Key</strong>. Ahí se pega el contenido copiado del archivo id_rsa.pub en el campo Key y se confirma con el botón <strong>Add SSH key</strong>. Luego, GitHub pide validación: se ingresa el número de verificación enviado automáticamente al correo y ¡voilà!</p>
 <p><img alt="" src="../../images/capt-github1.png" /></p>
 <p>Ahora se vuelve a la consola y se escribe el comando: <strong>ssh-T git @github.com</strong> para acceder al repositorio y conectar Git con GitHub a través de la llave. Nadie más que el propietario del computador puede acceder al repositorio clonado. Una vez ingresado el comando, aparece en la consola el saludo de autorización y el acceso con el nombre de usuario de la cuenta GitHub.</p>
 <p><img alt="" src="../../images/capt-consola5.png" /></p>
 <p><img alt="" src="../../images/capt-consola6.png" /></p>
 <p>Bien, ahora sí hay que cargar el repositorio facilitado por el equipo EFDI, donde está la plantilla de la web. En GitHub se presiona el botón <strong>Fork</strong> (ubicado a la derecha, debajo de la barra de menús). Esto abre la página <strong>Create a new fork</strong> y, en el campo Repository name, se escribe el formato nombre_apellido. Luego se presiona <strong>Create fork</strong>.</p>
 <p><img alt="" src="../../images/Github-Fork.png" /></p>
-<p><em>Paréntesis: varios habían dado clic en el botón Create fork sin los pasos previos de crear la clave y demás. Para borrar un repositorio, se va al menú Settings y en el último campo está la opción de eliminarlo.</em></p>
+<p><em>Paréntesis: varios habíamos dado clic en el botón Create fork sin los pasos previos de crear la clave y demás. Para borrar un repositorio, se va al menú Settings y en el último campo está la opción de eliminarlo.</em></p>
 <p>Continuando con Create fork, se abre el cuadro para configurar nombre y apellido, se completa la descripción y se vuelve a presionar el botón de crear fork. Luego se va al menú <strong>Action</strong> para activarlo. Después, en Code, se edita el archivo README (ícono del lápiz), se personalizan los datos con el mismo nombre de la cuenta GitHub y se confirma con el botón <strong>Commit changes</strong> (dos veces).</p>
 <p>En el archivo <strong>mkdocs.yml</strong> también se actualizan los datos y se confirman nuevamente los cambios. Volviendo al menú Action, se visualiza el proceso que ejecuta el servidor. En la interfaz aparecen tres rectángulos conectados; en el que se llama Deploy se encuentra la ruta de la página web de cada usuario.</p>
 <p><img alt="" src="../../images/Github-Action.png" /></p>
@@ -656,8 +656,8 @@ y se guarda en el archivo <strong>id_rsa.pub</strong>, que debe abrirse con Bloc
 <p>El mantenimiento y la gestión de nuevos contenidos se realizan en Visual Studio Code. Una vez instalado desde la página oficial, se abre desde la consola con el comando:
 code + Enter</p>
 <p><img alt="" src="../../images/VSCode.png" /></p>
-<p>En la barra lateral izquierda aparecen los iconos de navegación. El primero es el <strong>Explorador</strong>, donde se encuentran todos los archivos de la plantilla y los alojados en las carpetas del proyecto. El tercer ícono es el de confirmar cambios: cada vez que se modifica algo, queda registrado en la base de datos. En la parte inferior se visualiza la lista de cambios realizados y en la parte superior aparece el botón <strong>Commit</strong>.</p>
-<p>Es importante poner un nombre al cambio antes de confirmar, ya que, sin eso, el botón de commit no funcionará.</p>
+<p>En la barra lateral izquierda aparecen los iconos de navegación. El primero es el <strong>Explorador</strong>, donde se encuentran todos los archivos de la plantilla y los alojados en las carpetas del proyecto. El tercer icono es el de confirmar cambios: cada vez que se modifica algo, queda registrado en la base de datos. En la parte inferior se visualiza la lista de cambios realizados y en la parte superior aparece el botón <strong>Commit</strong>.</p>
+<p><em>Es importante poner un nombre al cambio antes de confirmar, ya que, sin eso, el botón de commit no funcionará.</em></p>
 <h1 id="esto-es-todo-amigo">Esto es todo amigo!!!<a class="headerlink" href="#esto-es-todo-amigo" title="Permanent link">&para;</a></h1>
 <p>8-11-2025
 Vuelvo por algo que es importante dejar registrado. En cierto momento tuve que generar páginas nuevas de módulos que no estaban en el archivo original de Markdoc. El método que apliqué fue copiar una página existente <strong>mt01.md</strong> y pegar haciendo clic sobre el archivo con el botón derecho.
@@ -720,7 +720,7 @@ En negrita está la <strong>RUTA</strong>, que fue la dificultad mayor del códi
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 8, 2025 12:26:23 UTC">December 8, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 15, 2026 03:21:54 UTC">February 15, 2026</span>
     
   </small>
 </div>
