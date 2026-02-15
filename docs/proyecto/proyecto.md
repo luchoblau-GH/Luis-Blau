@@ -6,7 +6,7 @@
 ---
 ---
 
-## *Gutemberg 0.5*
+## *Gutemberg 5.0*
 
 Reactivación del patrimonio tipográfico hospitalario mediante fabricación digital: exposición abierta y kit de alfabetización con doble impresión directa
 
