@@ -311,9 +311,45 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        MT06
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" title="MT06" class="md-nav__link md-nav__link--active">
       MT06
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ejercicio-1" class="md-nav__link">
+    Ejercicio 1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ejercicio-2" class="md-nav__link">
+    Ejercicio 2
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -612,6 +648,28 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ejercicio-1" class="md-nav__link">
+    Ejercicio 1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ejercicio-2" class="md-nav__link">
+    Ejercicio 2
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -642,6 +700,38 @@ En la placa de ESP32 que usamos, se conectan los pines de transmisión TX (boca)
 <p>Para empezar, se abre la aplicación de Arduino y se carga el módulo ESP32. Se revisa la biblioteca y, si no aparece en la lista, hay que descargar e instalar el módulo desde el servidor de Arduino. Cargar los enlaces dados en el cuadro de dialgo de preferencias. Luego de ese ajuste es posible iniciar la consigna propuesta; son dos ejercicios.</p>
 <p><img alt="" src="../../images/MT06-i.jpg" />
 <img alt="" src="../../images/MT06-j.jpg" /></p>
+<hr />
+<h2 id="ejercicio-1">Ejercicio 1<a class="headerlink" href="#ejercicio-1" title="Permanent link">&para;</a></h2>
+<p><em>&ldquo;Implementar una comunicación Serial UART entre dos
+ESP32:
+• ESP32 A (Emisor): cuando el usuario aprieta un botón,
+envía un mensaje por UART.
+• ESP32 B (Receptor): recibe el mensaje por UART y
+prende/apaga un LED según el comando recibido.&rdquo;</em></p>
+<p><img alt="" src="../../images/MT06-e.jpg" /></p>
+<h2 id="ejercicio-2">Ejercicio 2<a class="headerlink" href="#ejercicio-2" title="Permanent link">&para;</a></h2>
+<p><em>Programar un ESP32 para que:
+Se conecte a una red WiFi.
+Haga una petición HTTP GET a una página web simple.
+Muestre en el Serial Monitor:
+Si se conectó correctamente
+La IP asignada
+El código HTTP de respuesta
+Los primeros caracteres del contenido recibido</em></p>
+<p><img alt="" src="../../images/MT06-k.jpg" />
+<img alt="" src="../../images/MT06-l.jpg" /></p>
+<p>Logramos que el modulo trasmitiera en la web los datos del sensor de humedad en tiempo real.</p>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+<iframe
+src="https://www.youtube.com/embed/ISglY_0f4ww?si=dxf0sRlNvfhsre7K" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen
+referrerpolicy="strict-origin-when-cross-origin" 
+style="position:absolute; top:0; left:0; width:100%; height:100%;">
+ </iframe>
+</div>
                 
                   
                     
@@ -650,7 +740,7 @@ En la placa de ESP32 que usamos, se conectan los pines de transmisión TX (boca)
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 17, 2026 04:42:40 UTC">February 17, 2026</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 18, 2026 02:28:20 UTC">February 18, 2026</span>
     
   </small>
 </div>
