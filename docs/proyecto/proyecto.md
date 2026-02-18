@@ -428,6 +428,18 @@ https://amhistory.si.edu/docs/harris_printing_presses_graphic_arts_1996.pdf?utm_
 ### *Grabado con Fotopolimeros*
 https://www.domestika.org/es/blog/11142-fotograbado-con-fotopolimeros-una-revolucion-en-el-grabado
 
-**Videos de la WEB**
+
+### *Torculo Rembrandt DIY de Bill Ritchie 2014*
+https://competition.adesignaward.com/design.php?ID=32121
+
+## **Videos de la WEB**
+
+### *Prensa de grabado con tubos de pvc*
+https://www.youtube.com/watch?v=PROfesEBLcE&t=208s
 
 
+### *Mini Etching Preso Isnpiration*
+https://www.youtube.com/watch?v=E3bvc0d0GJs&t=10s
+
+### *DIY Mini Etching Press Assembly*
+https://www.youtube.com/watch?v=BGpp6sn9apQ
