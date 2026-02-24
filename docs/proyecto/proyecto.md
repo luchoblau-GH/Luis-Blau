@@ -11,6 +11,8 @@ Reactivación del patrimonio tipográfico hospitalario mediante fabricación dig
 
 ### 1. Introducción
 
+El proyecto surge ante la necesidad de transformar el patrimonio tecnológico hospitalario en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
+
 El proyecto se estructura en dos líneas complementarias:
 
 Modelo colaborativo y distributivo:
@@ -395,6 +397,9 @@ El atril devuelve esa condición. Del movimiento manual del tórculo al botón d
 ---
 
 ## **Referencias**
+
+### *Alfabeto impreso en 3d para aplicación del metodo Montessori*
+https://cults3d.com/es/modelo-3d/juegos/alfabeto-interactivo
 
 ### *Open proyet - How to 3D Print Your Own Printing Press*
 https://openpressproject.com/blogs/news/how-to-3d-print-your-own-printing-press#:~:text=I,printing%20cloth%2Ffelts
