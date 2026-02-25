@@ -162,7 +162,7 @@ se reactiva un sistema cultural completo.
 
 ## **Prototipado** 
 
-### *Kit del Impresor Escolar*
+## *Kit del Impresor Escolar*
 
 Sistema modular magnético de impresión directa para alfabetización inicial (6–7 años)
 
@@ -283,7 +283,7 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 
 ---
 
-### *Exposiciicon imprenta hospitalarias*
+## *Exposiciicon imprenta hospitalarias*
 
 ### 1. Concepto de Montaje
 
