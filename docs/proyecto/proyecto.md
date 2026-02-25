@@ -283,7 +283,7 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 
 ---
 
-## *Exposiciicon imprenta hospitalarias*
+## *Exposición imprenta hospitalarias*
 
 ### 1. Concepto de Montaje
 
