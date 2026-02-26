@@ -33,8 +33,8 @@ nav:
     - MI02: innovacion/mi02.md
     - MI03: innovacion/mi03.md 
   - Proyecto Integrador:
-    - Ideas Iniciales: proyecto/proyecto.md
-    - Ideas Iniciales: proyecto/desarrolloatril.md
+    - Proyecto Final: proyecto/proyecto.md
+    - Atril interactivo: proyecto/desarrolloatril.md
   - Referencias:
     - web: ref/web.md
     
