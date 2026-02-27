@@ -1,7 +1,7 @@
 
 # **Atril expositor** | EFDI | IA
 
-Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. 
+Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. Las funcionalidades estrategicas son fácil montaje y desmontaje, una vez montadas es de fácil traslado, y acopio en espacios reducidos.
 
 Dimensiones: 40x40x80 cm, extendible hasta 110 cm en altura.
 Peso que soportará: entre 50 y 2500 g
