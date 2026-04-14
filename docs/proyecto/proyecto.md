@@ -1,39 +1,66 @@
 
 # **Proyecto Final** | EFDI
 
-![](../images/Proyecto/proy-a.png)
+![](../images/Proyecto/proy.png)
 
 ---
 
 ## *Gutemberg 5.0*
 
-Reactivación del patrimonio tipográfico hospitalario mediante fabricación digital: exposición abierta y kit de alfabetización con doble impresión directa
+El retorno Distribuido. Del tipo móvil al archivo STL, del taller a la nube, del plomo al PLA, del gofrado al marcado láser y de la gubia al fresado.
 
-### 1. Introducción
+Es un proyecto de preservación del patrimonio tipográfico hospitalario mediante fabricación digital.
 
-El proyecto surge ante la necesidad de transformar el patrimonio tecnológico hospitalario en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
+### 1. Introducción *(¿Por qué?)*
 
-El proyecto se estructura en dos líneas complementarias:
+El proyecto surge ante la necesidad de mitigar la perdida constante de ejemplares de prensas y equipamiento de imprentas en el ambito hospitalario. Transformar este patrimonio invisible en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
 
-Modelo colaborativo y distributivo:
-Montaje de una exposición pública de modelos 3D de prensas históricas vinculadas a imprentas hospitalarias.
+![](../images/Proyecto/proy-a.png)
+
+Es importante evitar la pérdida de conocimiento técnico, documentar procesos productivos de imprentas para comprender su aporte a la construcción de nuestra sociedad y contribuir a la continuidad histórica.
+
+Aportar a la identidad colectiva (material e inmaterial) al turismo cultural, a la educación, a la aplicación de innovación, promover emprendimientos basados en la historia, reciclar contenidos como mecanismos de empoderar a la comunidad.
+
+Fortalecer el empoderamiento simbólico exhibiendo modelos, visibilizando ejemplos, generando conocimiento basado en la práctica, en el libre acceso y en la producción con biomateriales
+
+El proyecto se estructura en dos modelos de emprendimientos que ocurren simultaneamente:
+
+Modelo Colaborativo y distributivo:
+Montaje de una exposición itinerante de modelos 3D de prensas históricas vinculadas a imprentas hospitalarias y generación de catálogo de modelos on line con descargas libre. Experiencia inmersiva con dispositivos de observación interactiva.
 
 ![](../images/Proyecto/Expo.png)
 
 ---
 
-Modelo individual, participación multidisciplinar:
+Modelo cerrado, distribución y venta:
 Desarrollo de un Kit del Impresor Escolar, orientado a niños de 6 a 7 años, como herramienta de alfabetización a través de la impresión directa.
 
 ![](../images/Proyecto/KIT-1.png)
 
-Ambas líneas comparten una misma base tecnológica (modelado paramétrico e impresión 3D) pero responden a objetivos distintos: uno patrimonial y divulgativo; otro pedagógico y productivo.
 
-### 2. Objetivo General
+Ambos modelos comparten una misma base de fabricación (modelado paramétrico e impresión 3D) pero responden a objetivos distintos: uno patrimonial y divulgativo; otro pedagógico y productivo, sin embargo, pueden suseder simultaneamente como estrategia de sutentabilidad.
 
-Reactivar la cultura gráfica hospitalaria mediante la reproducción digital de tecnologías históricas y su transferencia pedagógica a través de dispositivos de alfabetización material.
+### 2. Marco conceptual
 
-### 3. Línea 1 — Modelo colaborativo y distribuido
+Posicionar la tecnología de la cultura gráfica transitando por las imprentas hospitalarias que aún conservan prensas. Rescatar mediante la reproducción digital de tecnologías históricas. Promover la transmisión a través de dispositivos de alfabetización basada en practicas lúdicas con abecedarios. Realizar el camino inverso, de los digital a lo analógico para fijar conocimiento.
+
+### 3 Obejtivo Principal *(¿Qué?)*
+
+Poner en relación al público general con la tecnología de impresión directa y sus resultados impresos.
+
+### 4 Obejtivos espesificos
+
+- **a** - Desarrollar un sistema de tres acciones encadenados en una exposicion itinerante con replicas a escala de las prensas. 
+
+- **b** - Prototipos simples de tipos móviles, prensa plana y prensa plano cilindrica que permitan elaborar piezas impresas. 
+
+- **c** - Dispositivos que permita una oblservación interactiva.
+
+### a -  Exposición de replicas a escala. *(¿Cómo?)*
+(Modelo colaborativo y distribuido)
+
+Desarrollar una muestra expositiva compuesta por modelos tridimensionales impresos en 3D de prensas tipográficas que formaron parte de imprentas hospitalarias en Uruguay.
+
 Exposición de Prensas Hospitalarias Impresas en 3D. Sistema abierto de investigacion, producción y mediación cultural.
 Modelo de colaboración posible:
 
@@ -53,9 +80,6 @@ Mapa de aportes especificos esperables:
 - Prototipado Experimental
 - Memoria Oral
 
-**Objetivo específico**
-Desarrollar una muestra expositiva compuesta por modelos tridimensionales impresos en 3D de prensas tipográficas que formaron parte de imprentas hospitalarias en Uruguay.
-
 Componentes
 
 - Modelos a escala de prensas históricas.
@@ -73,13 +97,13 @@ El modelo físico funciona como mediador entre:
 - Cultura material
 - Fabricación digital contemporánea
 
-### 4. Línea 2 — Modelo individual multidisciplinar
-Kit del Impresor Escolar (6–7 años)
+### b — Modelo individual multidisciplinar
+Kit de tipos moviles (6–7 años), mini tórculo plano cilindrico y prensa plana manual.
 
 ![](../images/Proyecto/KIT-4.png)
 
 **Objetivo específico**
-Diseñar y fabricar un kit de impresión directa orientado a procesos iniciales de alfabetización mediante la manipulación tipográfica.
+Diseñar y fabricar un kit de impresión directa orientado a procesos iniciales de alfabetización mediante la manipulación de sellos tipográficos y talleres experimentales de impresión con clises.
 
 Componentes del kit:
 
@@ -103,6 +127,17 @@ La propuesta se apoya en:
 - Relación entre letra, forma y huella.
 - El niño no solo reconoce la letra: la compone, la entinta, la presiona y la imprime.
 - Se restituye así la dimensión corporal de la escritura.
+
+![](../images/Proyecto/KIT-6.png)
+
+Torculo planos cilindrico funcional impreso en 3D para estampado de clises también impreso en 3D.
+
+![](../images/Proyecto/Torculo-a.png)
+
+Prensa plana manual para estampado de clises impresos en 3D y sellos fabricoados con bioplasitcos, biomateriales o cauchos de silicona.
+
+![](../images/Proyecto/Plana-a.png)
+
 
 ### 5. Metodología Integrada
 
@@ -448,3 +483,9 @@ https://www.youtube.com/watch?v=E3bvc0d0GJs&t=10s
 
 ### *DIY Mini Etching Press Assembly*
 https://www.youtube.com/watch?v=BGpp6sn9apQ
+
+### *Centro Comarcal de Patrimonio Digital*
+https://patrimoniodigitalrialebro.com/
+
+### *Archivo Nacional del Patrimonio 3D*
+http://www.patrimonio3d.uy/
