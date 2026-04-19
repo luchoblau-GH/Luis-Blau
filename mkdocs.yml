@@ -33,12 +33,11 @@ nav:
     - MI02: innovacion/mi02.md
     - MI03: innovacion/mi03.md 
   - Proyecto Integrador:
-    - Proyecto: proyecto/Proyecto.md
-    - Exposición: proyecto/Exposición.md
-    - Plana: proyecto/Plana.md
-    - Torculo: proyecto/Torculo.md
-    - Tipos moviles: proyecto/Tipos Moviles.md
-     
+    - PF-Proyecto: proyecto/Proyecto.md
+    - PF-Exposición: proyecto/Exposición.md
+    - PF-Plana: proyecto/Plana.md
+    - PF-Torculo: proyecto/Torculo.md
+    - PF-Tipos moviles: proyecto/Tipos Moviles.md     
   - Referencias:
     - web: ref/web.md
     
