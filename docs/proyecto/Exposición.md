@@ -51,3 +51,11 @@ Electrónica
 
 IA-Necesito que me armes la programación de la parte automática y la analógica con botones. El esquema para visualizarlo en Tinkercad y probarlo, para que pueda ir armándolo físicamente. Necesito la lista de los materiales para comprar lo que me falta. Y un estimativo de costos del equipamiento.
 
+Prensas tipograficas que se ponen en exibición.
+
+Prenas comon press de 1810 - 
+Prensa Minerva chalender 1890 -
+prensa plano cilincrica werfedale de 1890
+prensa heidelberg de 1920
+
+

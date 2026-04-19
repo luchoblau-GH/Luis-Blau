@@ -1,5 +1,6 @@
 
-# **Tipos Moviles** | EFDI
+# **Tipos Móviles** | EFDI
 
-Prensa Plano Cilindrica
+Una experiencia con Tipos Móviles de biomateriales, PLA, madera y caucho.
 
+![](../images/PF-B.jpg)
