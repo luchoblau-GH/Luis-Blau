@@ -29,15 +29,15 @@ Una agarradera grande para amplificar una fuerza pequeña. Tipos móviles de tam
 Con el primer prototipo se evaluó una agarradera con forma de pera invertida y discos circulares con los caracteres invertidos impresos con PLA amarillo para lograr mayor estímulo visual con las piezas.
 
 
-Primero se evaluó un modelo con discos roscados, pero lo descarté rápidamente por el tiempo de quitar y recolocar; además, el modelado digital es complejo y lleva bastante tiempo de desarrollo y diseño.
+Primero se evaluó un modelo con discos roscados, pero lo descarté rápidamente por el tiempo que lleva quitar y recolocar la pieza; además, el modelado digital es complejo y lleva bastante tiempo de desarrollo y diseño.
 
 ![](../images/PF-B-d.jpg)
 
-Los sustituí por un imán de neodimio oculto en el interior del disco y otro en la base de la agarradera. Fácil, rápido y atractivo para un niño. Definí un tamaño de disco de 30 mm como adecuado para manipular: letras muy visibles, piezas que no se pierden con facilidad y buen agarre para lavado después de uso. Para niños de 5 a 7 años, la normativa internacional sobre rango de riesgo de obstrucción de la vía aérea contempla ese tamaño.
+Los sustituí por discos con un imán de neodimio oculto en el interior del disco y otro en la base de la empuñadura. Fácil, rápido y atractivo para un niño. Definí un tamaño de disco de 30 mm como adecuado para manipular: letras muy visibles, piezas que no se pierden con facilidad y buen agarre para lavado después del uso. Para niños de 5 a 7 años, la normativa internacional sobre rango de riesgo de obstrucción de la vía aérea contempla ese tamaño.
 
 ![](../images/PF-B-c.jpg)
 
-Pude someterlo al uso infantil con la ayuda de mi sobrina Sofía, de 7 años. Observé varias dificultades de uso:
+Pude someterlo al uso infantil con la ayuda de mi sobrina Sofía, de 7 años. Observé varias dificultades en el uso:
 1. Con tintas densas a base de agua tipo pasta, el disco se sale de la agarradera.
 2. Para lograr una impresora uniforme, es necesario hacer fuerza con ambas manos.
 3. Para mejorar la transferencia, hay que usar una hoja de goma eva debajo del papel.
@@ -52,11 +52,11 @@ Como conclusión en esta etapa, hay que mejorar el estampado, logrando que se ha
 
 ## Prototipo 2
 
-En la segunda etapa, combiné impresión 3D con técnicas de moldes para lograr un sello suave, que reduzca considerablemente la fuerza que hay que hacer para estampar. Eso permite mejorar el proceso, reducir el tamaño de la agarradera, no necesita una base de goma eva y se obtienen resultados en menor tiempo.
+En la segunda etapa, combiné impresión 3D con técnicas de moldes para lograr un sello suave, que reduzca considerablemente la fuerza que hay que hacer para estampar. Eso permite mejorar el proceso, reducir el tamaño de la agarradera, no necesita una base de goma eva y se obtienen mejores resultados en menor tiempo.
 
 ![](../images/PF-B-j.jpg)
 
-Con el mismo diámetro, cambio drásticamente el diseño; los discos pasan a ser cilindros, moldes negativos para ser llenados con biomateriales; en este caso usé caucho de silicona. La letra pasa a ser bajorelieve dentro del molde.
+Con el mismo diámetro, cambio drásticamente el diseño; los discos pasan a ser cilindros blandos, lo rigido son los moldes negativos para ser llenados con biomateriales; en este caso usé caucho de silicona. La letra pasa a ser bajorelieve dentro del molde.
 
 ![](../images/PF-B-m.jpg)
 
@@ -79,9 +79,9 @@ Se aumentó el bajorelieve en el molde a 2 mm y en la agarradera el nicho donde 
 
 ![](../images/PF-B-q.jpg)
 
-El proceso de impresión tarda 33 minutos. Para un alfabeto completo con mayúsculas, minúsculas y números, serían 64 unidades, es decir, 128 piezas en total. El tiempo que insume es de 35 horas para un juego completo. Cada par de piezas lleva 12 g de filamento, en total 800 g. El caucho de silicona por unidad es de 8 ml; en total insume 520 ml. Para poder desmoldar, hay que esperar 12 h.
+El proceso de impresión de una unidad tarda 33 minutos. Para un alfabeto completo con mayúsculas, minúsculas y números, serían 64 unidades, es decir, 128 piezas en total. El tiempo que insume es de 35 horas para un juego completo. Cada par de piezas lleva 12 g de filamento, en total se necesitan 800 g. El caucho de silicona por unidad es de 8 ml; en total insume 520 ml. Para poder desmoldar, hay que esperar 12 h.
 
-En esta instancia no solo se está promoviendo imprimir con tipos móviles, sino que también se está reproduciendo el proceso de fabricación de un tipo móvil, el verdadero aporte de Johannes; él inventó el molde para fabricar tipos móviles de plomo, lo que posibilitó la reproducción de textos de forma masiva.
+En esta instancia no solo se está promoviendo imprimir con tipos móviles, sino que también se está reproduciendo el proceso de fabricación de un tipo móvil, el verdadero aporte de Johannes; él inventó el molde para fabricar tipos móviles de plomo, lo que posibilitó la reproducción de textos de forma masiva en 1450.
 
 ![](../images/PF-B-l.jpg)
 
@@ -89,7 +89,7 @@ En esta instancia no solo se está promoviendo imprimir con tipos móviles, sino
 
 Inspirado por el historiador Robert Darnton en sus reflexiones sobre la industria del libro y la edición. Su crítica planteaba que la imprenta nacía en el siglo XV como una tecnología nueva, pero con mentalidad vieja; imitaba a los libros caligráficos. Recién 50 años más tarde aparecerían tipografías nuevas, que no imitaban a la caligrafía gótica. Ese recuerdo me motivó a explorar las posibilidades de la impresión 3D aplicadas a la producción de impresos; es como el proceso inverso a lo que manifestaba Darnton. Una fabricación moderna para una aplicación antigua.
 
-En ese sentido, imprimí una letra con cada estilo de relleno interior que viene por el laminador de mi impresora, y exploré qué resultados impresos generaba cada uno. El objetivo es artístico, con valor estético y aplicado como recurso decorativo en distintos soportes.
+En ese sentido, imprimí una letra con cada estilo de relleno interior que viene en el laminador de mi impresora 3D, y exploré qué resultados impresos generaba cada uno. El objetivo es artístico, con valor estético y aplicado como recurso decorativo en distintos soportes. Me permitió observar la resistencia estructural de las piezas, los tiempos de impresión y el consumo de material de cada estilo.
 
 ![](../images/PF-B-s.jpg)
 
@@ -97,7 +97,7 @@ En ese sentido, imprimí una letra con cada estilo de relleno interior que viene
 
 ![](../images/PF-B-t.jpg)
 
-## Tipos moviles de MDF
+## Tipos móviles de MDF
 
 Los tipos móviles de madera surgieron entre 1820 y 1830 por necesidades técnicas; para hacer grandes titulares en afiches, fundir en plomo era costoso y muy pesado. Por ese motivo surgen los tipos de madera como solución industrial. Para fabricarlos, el tipógrafo Darius Wells inventó alrededor de 1820 la fresadora lateral para tallar tipos de madera. Luego, a partir de eso, se desarrolló el pantógrafo mecanizado que copiaba en un extremo la letra y la ampliaba en el otro tallando con una fresa. Se podría decir que es un antecedente directo del ruter CNC.
 
