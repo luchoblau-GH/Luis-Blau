@@ -110,4 +110,8 @@ En el rúter CNC del lab de Durazno tallamos dos tipos de madera en MDF de 8 mm 
 
 ![](../images/MT08-b.jpg)
 
+Para cerrar lo que considero un reciclaje patrimonial integral, seleccioné una familia tipográfica fundida en Montevideo y adquirida por una de las imprentas hospitalarias estudiadas. Bodoni es la tipografía que se usará en el proceso de prototipado de los moldes de los sellos.
+
+![](../images/PF-B-v.jpg)
+
 ---
