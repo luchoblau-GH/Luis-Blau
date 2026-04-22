@@ -84,6 +84,7 @@ El proceso de impresión de una unidad tarda 33 minutos. Para un alfabeto comple
 En esta instancia no solo se está promoviendo imprimir con tipos móviles, sino que también se está reproduciendo el proceso de fabricación de un tipo móvil, el verdadero aporte de Johannes; él inventó el molde para fabricar tipos móviles de plomo, lo que posibilitó la reproducción de textos de forma masiva en 1450.
 
 ![](../images/PF-B-l.jpg)
+![](../images/PF-B-w.jpg)
 
 ## Otros prototipos para estampado
 
