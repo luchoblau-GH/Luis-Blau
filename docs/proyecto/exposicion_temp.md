@@ -53,9 +53,42 @@ IA-Necesito que me armes la programación de la parte automática y la analógic
 
 Prensas tipograficas que se ponen en exibición.
 
-Prenas comon press de 1810 - 
-Prensa Minerva chalender 1890 -
-prensa plano cilincrica werfedale de 1890
-prensa heidelberg de 1920
+Prenas Comon Press de 1810 - 
+Prensa Minerva Cropper 1890 -
+Prensa plano cilincrica Werfedale de 1890
+Prensa Heidelberg de 1920
+Chivalete tipografico
+Guillotina manual
+
+![](../images/PF-Ex-Min-a.jpg)
+
+![](../images/PF-Ex-Min-b.jpg)
+
+![](../images/PF-Ex-Min-c.jpg)
+
+![](../images/PF-Ex-Min-d.jpg)
+
+![](../images/PF-Ex-Min-e.jpg)
+
+![](../images/PF-Ex-Min-f.jpg)
+
+![](../images/PF-Ex-Min-g.jpg)
+
+![](../images/PF-Ex-Min-i.jpg)
+
+![](../images/PF-Ex-Min-h.jpg)
+
+![](../images/PF-Ex-Min-k.jpg)
+
+![](../images/PF-Ex-Min-l.jpg)
+
+![](../images/PF-Ex-Min-n.jpg)
+
+![](../images/PF-Ex-Min-m.jpg)
+
+Referencias
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a5UFos_ysz8?si=KZxNokWpNHow3Wtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+[Restauración prensa cropper](https://typeandstyle.blogspot.com/2014/08/letterpress-restoration-done.html?m=1)
