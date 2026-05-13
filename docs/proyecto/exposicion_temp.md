@@ -47,9 +47,79 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ![](../images/PF-A-f.jpg)
 
+---
+
+![](../images/PF-Ex-Elec-a.jpg)
+
 Electrónica
 
-IA-Necesito que me armes la programación de la parte automática y la analógica con botones. El esquema para visualizarlo en Tinkercad y probarlo, para que pueda ir armándolo físicamente. Necesito la lista de los materiales para comprar lo que me falta. Y un estimativo de costos del equipamiento.
+La incorporación de la electrónica está orientada a mejorar la experiencia del usuario en la interacción con el objeto en exhibición. Permitir que el observador pueda adaptar el mobiliario a su curiosidad con tres variables programadas electrónicamente.
+
+El control del giro 360 del objeto en ambos sentidos, controlar la altura del mobiliario para acceder a una perspectiva personalizada según la altura del observador. Y la última variable es la iluminación automatizada de bienvenida; el objeto se ilumina cuando el observador se acerca al atril.
+
+Este desafío en tres etapas inicia con un motor paso a paso para el disco giratorio, donde dos botones irán posicionados en los costados del panel frontal informativo. Para lograrlo, se usó un módulo ESP32, dos pulsadores de dos bornes y un motor paso a paso 28BY-48 de 5 V con su correspondiente placa. La plataforma de programación que usé es Arduino IDE y los códigos de programación los obtuve con ChatGPT Plus. 
+
+![](../images/PF-Ex-Elec-b.jpg)
+
+![](../images/PF-Ex-Elec-c.jpg)
+
+Basado en los esquemas, logré una conexión exitosa, no sin muchas horas de pruebas, práctica de soldaduras con estaño y las dificultades del trabajar domésticamente; como ejemplo, no disponer de pinzas que sujeten los elementos es un obstáculo que genera un estrés importante. Que no se pegue el estaño en los cables es otro; evitar el humo tratando de mirar; hagas lo que hagas, siempre busca la nariz. Los terminales hembra de los cables Dupont se agrandan y no hacen buen contacto, y el más grave, quemar la placa Arduino en el camino del LabDom. Todo es parte del aprendizaje y las dificultades van dando paso a la experiencia. 
+
+![](../images/PF-Ex-Elec-d.jpg)
+
+El sistema de motor paso a paso para el disco tiene dos pulsadores a los que solde cables dupon MM y MH. El modulo ESP32 es ideal para controlar el giro en dos sentidos. el giro inicia cuando se mantiene presionado el boton y se detiene cuando se suelta. El giro debe ser muy suave y la forma de lograrlo es usando este tipo de motor. Los cuatro cabres que conectan la placa del motor al modulo
+
+![](../images/PF-Ex-Elec-e.jpg)
+
+El sistema de motor paso a paso para el disco tiene dos pulsadores a los que soldé cables Dupont MM y MH. El módulo ESP32 es ideal para controlar el giro en dos sentidos. El giro inicia cuando se mantiene presionado el botón y se detiene cuando se suelta. El giro debe ser muy suave y la forma de lograrlo es usando este tipo de motor. Los cuatro cables que conectan la placa del motor al módulo van en secuencia consecutiva y positivo al VIN y el negativo al GND; es como una regla constante. El prompt para el código de programación es el siguiente: 
+
+1- Necesito que generes una imagen con boceto, tipo TinkerCAD, para conectar un motor paso a paso a un módulo ESP32 como los de la imagen.
+2- Necesito el código de programación para controlar el giro del motor hacia la derecha y hacia la izquierda con los dos pulsadores.
+
+Con eso logré un funcionamiento adecuado para el disco; próximo paso, modificar el diseño para incorporar la electrónica.
+
+---
+Para la iluminación del atril necesito trabajar con tiras LED y el objetivo es lograr que se enciendan automáticamente con el acercamiento de una persona. Use el sensor de distancia que usamos en el módulo 4. El primer desafío fuerte es que las tiras usan una fuente externa que lleva el voltaje de 220 a 12 V. Disponía de una tira tipo NEON y otra cinta de 8 mm de ancho. La fuente que tengo sirve para ambas, pero el Chatgpt me recomendaba usar un interruptor MOSFET para interconectar la fuente y la tira LED. 
+
+![](../images/PF-Ex-Elec-f.jpg)
+
+![](../images/PF-Ex-Elec-g.jpg)
+
+Inicié trabajando con la placa Arduino UNO y tuve que ir a comprar el MOSFET. Primer paso: preparar los terminales para conectar los componentes, salida de fuente y ficha para conectar la fuente al tomacorriente. En el extremo de la tira, soldé terminales macho para trabajar en la protoboard. Después seguí con descifrar la conexión del MOSFET entre la fuente y la tira LED. 
+
+![](../images/PF-Ex-Elec-h.jpg)
+
+![](../images/PF-Ex-Elec-i.jpg)
+
+Entre los bornes de entrada VIN + y VIN -, los de salida OUT + y OUT -, el GND y el TIRG/PWN, más los cuatro terminales del sensor de distancia, en algún momento conecté en un pin incorrecto y quemé la placa de Arduino.
+
+![](../images/PF-Ex-Elec-j.jpg)
+
+Sin un diagnóstico claro, antes de hacerle el acta de defunción al Arduino, lo conecté a otras PC y la luz de alimentación prendía y en dos segundos se apagaba. Recién tuve cereza cuando en Eneka me lo probó un técnico; midiendo temperatura, me dijo que no solo era el zócalo, sino que tenía resistencias sobrecalentadas.
+
+![](../images/PF-Ex-Elec-k.jpg)
+
+Me pasé a ESP32; las conexiones se simplificaron y las dos tiras encendían, pero no respondían a la programación, por lo que empecé a sospechar que el interruptor MOSFET también estaba dañado. Cambié por un transistor sugerido por ChatGPT, IRLZ44N, con tres patas. Otra visita al proveedor. El frente del componente es el que tiene las escrituras; en base a eso se conecta en la pata izquierda G, centro D y derecha S. 
+
+![](../images/PF-Ex-Elec-l.jpg)
+
+![](../images/PF-Ex-Elec-m.jpg)
+
+![](../images/PF-Ex-Elec-n.jpg)
+
+Otro aprendizaje importante es que la tira que estoy usando no es direccional, por lo que no es posible lograr efectos de recorridos progresivos de la luz. Solo lograría control de intensidad en intervalos de tiempo. El ESP32 se conectó y corrió la programación sin problemas y los resultados fueron visibles y muy buenos. 
+
+![](../images/PF-Ex-Elec-ñ.jpg)
+
+![](../images/PF-Ex-Elec-o.jpg)
+
+Por último, le pedí a la IA generativa que me hiciera un boceto de la placa con todos los circuitos y así me tiró la primera edición dimensionada de lo que podría llegar a ser.
+
+![](../images/PF-Ex-Elec-p.jpg)
+
+Ahora falta solo resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.
+
+---
 
 Prensas tipograficas que se ponen en exibición.
 
@@ -59,6 +129,8 @@ Prensa plano cilincrica Werfedale de 1890
 Prensa Heidelberg de 1920
 Chivalete tipografico
 Guillotina manual
+
+
 
 ---
 
