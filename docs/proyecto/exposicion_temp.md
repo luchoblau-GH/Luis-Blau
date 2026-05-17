@@ -1,7 +1,7 @@
 
 # **EXPOSICION**
 
-Atril exibidor interactivo.
+## Atril exibidor interactivo.
 
 ![](../images/PF-A.jpg)
 
@@ -51,7 +51,7 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ![](../images/PF-Ex-Elec-a.jpg)
 
-Electrónica
+## Electrónica
 
 La incorporación de la electrónica está orientada a mejorar la experiencia del usuario en la interacción con el objeto en exhibición. Permitir que el observador pueda adaptar el mobiliario a su curiosidad con tres variables programadas electrónicamente.
 
@@ -123,18 +123,18 @@ Ahora falta solo resolver la elevación telescópica del atril mediante un eje c
 
 Prensas tipograficas que se ponen en exibición.
 
-Prenas Comon Press de 1810 - 
-Prensa Minerva Cropper 1890 -
-Prensa plano cilincrica Werfedale de 1890
-Prensa Heidelberg de 1920
-Chivalete tipografico
-Guillotina manual
-
-
+Prenas Plana Comon Press de 1810 - 
+Prensa Plana Minerva Cropper 1890 -
+Prensa Plano Cilindrica Werfedale de 1890 -
+Prensa Plana Minerva Heidelberg de 1920 -
+Chivalete tipográfico -
+Guillotina manual -
 
 ---
 
 ![](../images/PF-Ex-Min-a.jpg)
+
+## Prensa Plana
 
 Esta búsqueda experimental para explicar el marco tecnológico donde se generó la cultura gráfica, la comunicación visual en una época pasada, provocó un giro importante en el énfasis del Proyecto Final.
 
@@ -178,7 +178,9 @@ Iniciamos el proceso de fabricación de modelo final a escala 1/5; corresponde a
 
 ![](../images/PF-Ex-Min-m.jpg)
 
-Referencias
+---
+
+## Referencias
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5UFos_ysz8?si=KZxNokWpNHow3Wtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
