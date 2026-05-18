@@ -1,5 +1,26 @@
+![](../images/PF-Ex-Tor-a.jpg)
 
-# **Torculo** | EFDI
+# Prensa Plano Cilindrica
 
-Prensa Plano Cilindrica
+![](../images/PF-Ex-Tor-b.jpg)
+
+![](../images/PF-Ex-Tor-c.jpg)
+
+![](../images/PF-Ex-Tor-d.jpg)
+
+![](../images/PF-Ex-Tor-e.jpg)
+
+![](../images/PF-Ex-Tor-f.jpg)
+
+![](../images/PF-Ex-Tor-d.jpg)
+
+![](../images/PF-Ex-Tor-e.jpg)
+
+![](../images/PF-Ex-Tor-g.jpg)
+
+![](../images/PF-Ex-Tor-h.jpg)
+
+![](../images/PF-Ex-Tor-i.jpg)
+
+![](../images/PF-Ex-Tor-j.jpg)
 
