@@ -8,13 +8,11 @@
 
 ![](../images/PF-Ex-Tor-d.jpg)
 
+![](../images/PF-Ex-Tor-j.jpg)
+
 ![](../images/PF-Ex-Tor-e.jpg)
 
 ![](../images/PF-Ex-Tor-f.jpg)
-
-![](../images/PF-Ex-Tor-d.jpg)
-
-![](../images/PF-Ex-Tor-e.jpg)
 
 ![](../images/PF-Ex-Tor-g.jpg)
 
@@ -22,5 +20,9 @@
 
 ![](../images/PF-Ex-Tor-i.jpg)
 
-![](../images/PF-Ex-Tor-j.jpg)
+referencias
+
+[Torculo museo de Durazno](https://durazno.uy/index.php/noticias-departamentales/torculo-en-el-museo-silveira-silva-reliquia-de-finales-del-1800.html)
+
+
 
