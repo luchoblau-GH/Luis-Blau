@@ -1,5 +1,6 @@
+![](../images/PF-B-a0.jpg)
 
-# **Tipos Móviles** | EFDI
+# Tipos Móviles
 
 Una experiencia con Tipos Móviles de biomateriales, PLA, madera y caucho.
 
