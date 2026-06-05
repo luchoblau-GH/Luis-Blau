@@ -49,6 +49,40 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ---
 
+Prototipado del Atirl
+
+![](../images/PF-ProtoAtr-a.jpg)
+
+Un cambio de logística nos hizo reconfigurar la estrategia de prototipado del atril exhibidor. Cambiamos la idea original de cortar las piezas con CNC de sustracción con fresa a corte con ruter láser. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. 
+
+![](../images/PF-ProtoAtr-c.jpg)
+
+![](../images/PF-ProtoAtr-b.jpg)
+
+![](../images/PF-ProtoAtr-d.jpg)
+
+![](../images/PF-ProtoAtr-e.jpg)
+
+![](../images/PF-ProtoAtr-f.jpg)
+
+![](../images/PF-ProtoAtr-g.jpg)
+
+![](../images/PF-ProtoAtr-h.jpg)
+
+![](../images/PF-ProtoAtr-i.jpg)
+
+![](../images/PF-ProtoAtr-j.jpg)
+
+![](../images/PF-ProtoAtr-k.jpg)
+
+![](../images/PF-ProtoAtr-l.jpg)
+
+![](../images/PF-ProtoAtr-m.jpg)
+
+
+
+---
+
 ![](../images/PF-Ex-Elec-a.jpg)
 
 ## Electrónica
