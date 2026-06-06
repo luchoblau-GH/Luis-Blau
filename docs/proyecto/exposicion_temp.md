@@ -53,34 +53,63 @@ Prototipado del Atirl
 
 ![](../images/PF-ProtoAtr-a.jpg)
 
-Un cambio de logística nos hizo reconfigurar la estrategia de prototipado del atril exhibidor. Cambiamos la idea original de cortar las piezas con CNC de sustracción con fresa a corte con ruter láser. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. 
+Un cambio de logística nos hizo reconfigurar la estrategia de prototipado del atril exhibidor. Cambiamos la idea original de cortar las piezas con CNC de sustracción con fresa a corte con ruter láser. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. Con Florencia medimos y ajustamos la potencia del láser con una relacion de velocidad y calidad de corte. 
 
 ![](../images/PF-ProtoAtr-c.jpg)
 
+El cambio de espesor significa repensar todos los encastres y las olguras, reconfigurar los topes y repensar cómo se fijarán. En ese momento surge la idea de combinar corte láser e impresión 3D para el ensamble. En total, usé 5 placas y media, en un tiempo de producción de unas 3 horas distribuidas en preparar el dibujo de las 19 piezas dentro de los límites del tamaño de las placas, dejando un margen de 20 mm.
+
+![](../images/PF-ProtoAtr-b2.jpg)
+
+Luego, exportar los archivos PDF para cargar al IdeaMaker, guardar el seteo para cargarlo a la memoria del ruter láser; como aún no está operativa la red, se usa pendrive para cargar los archivos en todas las máquinas. En la cortadora, se enciende con el botón rojo, se inserta la memoria y se usan las cuatro flechas del panel frontal para navegar, buscar y transferir el archivo a la memoria interna. Se entra desde el botón FILE y se navega con las flechas hasta encontrar el archivo; se selecciona con ENTER. Se establece el cero del láser sobre la placa con el botón ORIGEN; se simula con FRAME si el diseño está dentro de los límites de la placa, y se inicia presionando el botón VERDE
+
 ![](../images/PF-ProtoAtr-b.jpg)
+
+Luego de cortadas las 19 piezas, ensamble usando cinta de enmascarar para sujetar las partes y observe cuánta distancia de sobrepase tenía cada encastre. Comprobé que las dimensiones estuvieran correctas y que el encaje de la pieza móvil tuviera suficiente holgura para moverse dentro de la pieza mayor. En este momento, el desafío de mantener el concepto de que fuera un atril desmontable está al borde de lo inviable.
 
 ![](../images/PF-ProtoAtr-d.jpg)
 
+Inicié el proceso de diseño de las piezas sujetadoras. El objetivo es lograr piezas que funcionen como acoples lo suficientemente fuertes para mantener la unidad del mobiliario. En cada unión se necesita un acople diferente. Es así que poco a poco fui desembocando con ensayo y error un sistema de 13 acoples que funcionan a presión y sujetan en varias direcciones cada una de las 19 placas de MDF. El espesor de cada una no podía superar los 3 mm para mantener la funcionalidad de elevación telescópica. Se imprimieron totalmente sólidas con una configuración de 4 bucles de perímetro, dando como resultado una pieza fuerte compacta al 100 %.
+
 ![](../images/PF-ProtoAtr-e.jpg)
+
+![](../images/PF-ProtoAtr-m.jpg)
 
 ![](../images/PF-ProtoAtr-f.jpg)
 
+Para la base del motor NEMA 17 de elevación, use una tabla de 25 mm de espesor y 100 mm de ancho y 400 mm de largo. Con dos piezas hembra en cada extremo, se encastran hacia abajo en las placas laterales. Debería absorber las fuerzas que actúan al levantar la pieza móvil. El sistema de elevación tiene dos guías y un eje roscado conectado a un motor paso a paso acoplados a la base y al montante transversal de la pieza superior que se levanta. Hice un boceto y con ChatGPT lo llevé a un nivel más realista.
+
 ![](../images/PF-ProtoAtr-g.jpg)
+
+![](../images/PF-ProtoAtr-g2.jpg)
+
+Para el desplazamiento del atril, reciclé unas ruedas de patines rollers aggressive de Santiago; son compactas, de silicona de alta densidad y con rulemanes en los rodamientos. Con eso se hace muy suave, duradero y fácil el desplazamiento. Como criterio de diseño, las ruedas tienen que quedar ocultas para generar un efecto de levitación. El diseño del soporte tiene dos piezas, un encastre negativo y una orquilla para el eje de las ruedas. En total fueron tres los prototipos que hice de esta pieza en particular hasta lograr que funcionara.
 
 ![](../images/PF-ProtoAtr-h.jpg)
 
+Una vez instaladas las ruedas, probé el atril en sus dos alturas principales con la minerva colocada donde se instalará el plato giratorio. El último nivel del atril es el cajón que alojará en su interior a la electrónica y en la cara frontal se instala el panel informativo con los botones que accionan el motor de giro. En la cubierta superior va el disco y la iluminación de la minerva.
+
 ![](../images/PF-ProtoAtr-i.jpg)
 
+Integrar la electrónica fue un reto intenso de muchísimas horas de trabajo e investigación con IA. Desde la necesidad de componentes nuevos como transistores MOSFET, conversores de voltaje, fuentes externas, al montaje físico de la instalación. El cableado en lugar de la placa electrónica es una tarea que organicé imprimiendo separadores a escala, soportes para los módulos y guías para tiras LED. Además del rediseño del disco giratorio, la incorporación de engranajes fue otro proceso de tres prototipos hasta lograr el definitivo. 
+
 ![](../images/PF-ProtoAtr-j.jpg)
+
+Lo más complejo fue lograr un único código de programación para cargar en una sola placa ESP32, pero eso lo dejo para el capítulo de electrónica.
 
 ![](../images/PF-ProtoAtr-k.jpg)
 
 ![](../images/PF-ProtoAtr-l.jpg)
 
-![](../images/PF-ProtoAtr-m.jpg)
+Como conclusión de este proceso, es indudable la aplicación de todo lo dado a lo largo de la especialización. El conocimiento adquirido, el acceso a la tecnología, el uso de la IA y la colaboración de los LABs ha sido de un valor altamente motivante. Nos posiciona de frente a las nuevas oportunidades laborales como agentes innovadores con potencial de emprendimiento, tanto en gestión de servicio como fabricantes de productos integrales.
 
+![](../images/PF-ProtoAtr-n.jpg)
+ 
+A pesar de las carencias propias de no tener formación específica en diseño industrial, es decir, hay muchos aspectos a mejorar. Haber logrado lo que se estableció en el cronograma del proyecto con un producto tangible nos deja con mucha satisfacción y ganas de seguir mejorando.
 
+Planilla de tiempo, insumos y costos del atril.
 
+---
 ---
 
 ![](../images/PF-Ex-Elec-a.jpg)
