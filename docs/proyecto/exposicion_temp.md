@@ -176,15 +176,51 @@ Otro aprendizaje importante es que la tira que estoy usando no es direccional, p
 
 ![](../images/PF-Ex-Elec-o.jpg)
 
-Por último, le pedí a la IA generativa que me hiciera un boceto de la placa con todos los circuitos y así me tiró la primera edición dimensionada de lo que podría llegar a ser.
+Le pedí a la IA generativa que me hiciera un boceto de la placa con todos los circuitos y así me presentó la primera representación de lo que podría llegar a ser.
 
 ![](../images/PF-Ex-Elec-p.jpg)
 
-Ahora falta solo resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.
+Otra instancia por resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.
 
 ---
 
-Prensas tipograficas que se ponen en exibición.
+
+![](../images/PF-Ex-Elec-a1.jpg)
+
+Hasta acá logré dar respuesta a cada instancia por separado, ¿pero cómo integro todo esto al atril? ¿Cómo hago con los recursos y los conocimientos que tengo para ensamblar y montar en la realidad todos estos componentes? ¿Es posible controlar varias instancias con un mismo módulo ESP32? ¿Cómo alimento con electricidad a todos los componentes con un solo cable de entrada? Es así, que inicia una nueva etapa, primero resolviendo una programación única y después diseñando soportes para fijar los componentes al cajón. 
+
+![](../images/PF-Ex-Elec-q.jpg)
+
+![](../images/PF-Ex-Elec-r.jpg)
+
+El ChatGPT es de gran utilidad para avanzar en programación, para entender el funcionamiento de cada componente electrónico, para poder comprar, para poder conectar correctamente; cada duda la fui superando guiado por la IA. Hasta cuando necesité usar un multímetro, me guio paso a paso con mucha precisión y tuve éxito gracias a eso. Eso sí le dediqué muchas horas hasta que comprendí la conexión y lo bosquejé en un esquema para retener y volver a conectar en su lugar.
+
+![](../images/PF-Ex-Elec-s.jpg)
+
+Una vez verificado el código con las dos instancias, la de giro de disco y el encendido de las luces, coloque los brazos impresos en 3D donde van insertos los botones y a la vez sostienen el panel frontal. Instalé los botones con los cables correspondientes y empecé el montaje de la instalación, conexiones y cableado según el esquema. Para ordenar los cables, imprimí separadores dibujados según el espesor de los cables y funcionaron muy bien. Fije todo con cinta de silicona de doble cara. 
+
+![](../images/PF-Ex-Elec-t.jpg)
+
+![](../images/PF-Ex-Elec-u.jpg)
+
+![](../images/PF-Ex-Elec-v.jpg)
+
+
+Para lograr una alimentación única, lo que me sugirió la IA es que colocara un conversor a la salida de la fuente externa. Del tomacorriente a la fuente, de la fuente al conversor y del conversor alimente: el módulo ESP32, el motor paso a paso y deje dos reservas para el motor NEMA17 y otra para agregarle un motor que accionara la Minerva.
+
+![](../images/PF-Ex-Elec-x.jpg)
+
+La puesta a punto de la programación también llevó bastante tiempo. Ajuste la distancia de encendido y la permanencia de la luz; tenía un problema porque se apagaba y hacía una intermitencia. Hasta que me di cuenta de que lo que estaba mal era el rango de distancia; lo tenía entre 15 y 50 cm, probé entre 0 y 50 y se solucionó la programación. El giro del disco también tuvo bastantes idas y vueltas, cambio de pines, circuitos invertidos. Tanto en el módulo del motor como en el ESP32, tuve que conectar y desconectar los cables de cada bobina hasta que respondiera de forma constante a ambos sentidos de giro. 
+
+![](../images/PF-Ex-Elec-w.jpg)
+
+Al final, instalé el nuevo cable de alimentación y, con la última programación, quedó funcional la electrónica del atril, una funcionalidad de interacción simple que insume una instalación compleja.
+
+![](../images/PF-Ex-Elec-y.jpg)
+
+---
+
+Prensas tipográficas que se ponen en exibición.
 
 Prenas Plana Comon Press de 1810 - 
 Prensa Plana Minerva Cropper 1890 -
