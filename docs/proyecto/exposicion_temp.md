@@ -49,7 +49,7 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ---
 
-Prototipado del Atirl
+**Prototipado del Atirl - Cambio de Estrategia**
 
 ![](../images/PF-ProtoAtr-a.jpg)
 
@@ -105,7 +105,7 @@ Como conclusión de este proceso, es indudable la aplicación de todo lo dado a 
 
 ![](../images/PF-ProtoAtr-n.jpg)
  
-A pesar de las carencias propias de no tener formación específica en diseño industrial, es decir, hay muchos aspectos a mejorar. Haber logrado lo que se estableció en el cronograma del proyecto con un producto tangible nos deja con mucha satisfacción y ganas de seguir mejorando.
+A pesar de las carencias propias de no tener formación específica en diseño industrial, es decir, hay muchos aspectos de diseño a mejorar. Sin embargo, haber logrado lo que se estableció en el cronograma del proyecto con un producto tangible nos deja con mucha satisfacción y ganas de seguir mejorando.
 
 Planilla de tiempo, insumos y costos del atril.
 
@@ -235,9 +235,9 @@ Guillotina manual -
 
 ## Prensa Plana
 
-Esta búsqueda experimental para explicar el marco tecnológico donde se generó la cultura gráfica, la comunicación visual en una época pasada, provocó un giro importante en el énfasis del Proyecto Final.
+Esta búsqueda experimental para explicar el marco tecnológico donde la comunicación visual impresa se materializa a traves de la transferencia de tinta. Motivó un giro importante en el énfasis del Proyecto Final.
 
-Se materializó un producto híbrido entre un modelo mecánico, una pieza didáctica y un objeto de autor. 
+Logré en un tiempo prudente un producto híbrido entre un modelo mecánico que no es una replica, una pieza didáctica y un objeto de autor. 
 
 ![](../images/PF-Ex-Min-b.jpg)
 
@@ -245,11 +245,11 @@ El proceso inicia con un prototipo estático de una minerva basado en un afiche 
 
 ![](../images/PF-Ex-Min-c.jpg)
 
-El desafío es lograr que un modelo estático se convirtiera en un modelo funcional con todo su sistema de piezas móviles. Para lograrlo, hay que trabajar el modelo en otro programa. Es así que llevé el archivo STL original a Fusion y comencé el proceso de adaptación del modelo. Pasar de malla a sólido y mejorar toda la geometría de las partes, sobre todo las curvas, que en su mayoría hay que redibujarlas. En la siguiente imagen están el prototipo estático a escala 1/13 con la referencia humana y el prototipo cinético a escala 1/8.
+El desafío es lograr que un modelo estático se convirtiera en un modelo funcional con todo su sistema de piezas móviles. Para lograrlo, hay que trabajar el modelo en otro programa. Es así que llevé el archivo STL original a Fusion y comencé el proceso de adaptación del modelo. Pasar de malla a sólido y mejorar toda la geometría de las partes, sobre todo las curvas, que en su mayoría hay que redibujarlas. En la siguiente imagen están el prototipo estático a escala 1/13 con la referencia humana y el prototipo funcional cinético a escala 1/8.
 
 ![](../images/PF-Ex-Min-d.jpg)
 
-Todo el proceso para conseguir una vinculación cinemática del sistema, con engranajes, bielas, pivotes, cigüeñales, requiere mucha observación de modelos reales y ensayos con piezas fabricadas. Encastres con holguras precisas, resistentes y tolerancias suaves en las geometrías y una buena dosis de intuición de autor. 
+Todo el proceso para conseguir una vinculación cinemática del sistema, con engranajes, bielas, pivotes, cigüeñales, requiere mucha observación e investigación de modelos reales y ensayos con piezas fabricadas. Encastres con holguras precisas, resistentes y tolerancias suaves en las geometrías y una buena dosis de intuición de autor. 
 
 ![](../images/PF-Ex-Min-e.jpg)
 
@@ -267,7 +267,7 @@ El prototipo se fabricó a una escala aproximada de 1/8; el modelo real mide 50 
 
 ![](../images/PF-Ex-Min-h.jpg)
 
-Iniciamos el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en el laboratorio de la sede UTEC de Minas. Donde surge la idea de imprimir la colección completa y le da un nuevo giro al PF.
+Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Es dia Florencia plantea la pregunta de porque no analisar imprimir la colección completa y le da un nuevo giro al PF.
 
 ![](../images/PF-Ex-Min-k.jpg)
 
@@ -278,6 +278,90 @@ Iniciamos el proceso de fabricación de modelo final a escala 1/5; corresponde a
 ![](../images/PF-Ex-Min-m.jpg)
 
 ---
+---
+
+## (Parentesis) - Análisis de presupuesto y plazos
+
+Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. 
+
+![](../images/PF-Ex-Min-y.jpg)
+
+Luego del intercambio, analizando la viabilidad en tiempos de uso de la impresora y costos de insumos, nos reunimos con el equipo docente para profundizar aspectos sobre las actividades de taller que se proponen en el marco de la muestra. Se sugirió con muy buen criterio no cargar las disponibilidades del Laba hasta la presentación fechada para el 22 de junio y retomar con mejores plazos de planificación.
+
+En resumen, la fabricación de una muestra completa se divide en 3 instancias:
+- A-Impresión de los modelos de prensas estudiados por Florencia: total, 195 h más 48 horas de ensamble. 
+- B-Fabricación y montaje de 6 atriles, uno para cada modelo: 90 horas y montaje de la muestra: 12 horas, total 102 horas.
+- C-Planificación de talleres de impresión: 48 horas
+Total de tiempo: 393 horas (una persona trabajando sola y con una sola máquina).
+
+Insumos: 
+- 5 kg de filamento blanco, 
+- 33 placas de MDF de 3 mm de 900x600 mm
+- 6 módulos ESP32 DEVKI TV1
+- 6 fuentes de 220 a 12 V para tiras LED
+- 6 conversores de 12 a 5 V LM2596
+- 6 MOSFET IRLNZ44
+- 6 Sensores de distancia HC-SR04
+- 6 Motores paso a paso 28BYJ-48 con placa ULN2003
+- 1 bobina de tira LED 5 m 
+- 12 pulsadores de dos pines
+- 24 borneras de dos polos acoplables
+- 3 metros de cables, cintas de colores
+- 1 caja de aislantes termorretráctiles
+- 6 fichas, tres en línea
+- 7 metros de cable bajo goma 3x1 mm
+- 3 Tablas cepilladas de 10x2.5x90 cm
+- 24 ruedas de silicona de 50 mm de diámetro
+- 96 rulemanes de 22x8.2x7.2 mm 
+- 1 rollo de cinta de silicona de doble cara
+
+Con base en esta cuantificación, le pedimos a la IA tres cotizaciones basadas en precios del mercado uruguayo. Para mano de obra, usamos el escalafón publicado por UTEC horas de docentes de nivel de posgrados, para establecer un total estimado. Profesionalmente, sería prudente clasificar por rubros: Hora profesional, hora técnica. Hora técnica especializada, para lo que es necesario solicitar asesoramiento al equipo docente para ajustar el presupuesto. 
+
+![](../images/PF-Ex-Min-z.jpg)
+
+![](../images/PF-Ex-Min-z1.jpg)
+
+![](../images/PF-Ex-Min-z2.jpg)
+
+El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.292 USD) tal cual está planificada en el proyecto final de especialización. Luego de montada, los costos serían de traslado, montaje y talleres. Considerando que la muestra dure 15 itinerancias, tendríamos un costo de 620 USD, por lo que como producto cultural es altamente eficiente.
+
+---
+---
+La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
+
+![](../images/PF-Ex-Min-p.jpg)
+
+Puntualmente, lo que detecté es que en el modelo había pequeños errores de posición de algunos sólidos, que quedaban levantados de la cama de impresión. Generando soportes en lugares extraños. Solucionados esos problemas en Fusion, se logró imprimir correctamente y dejamos un pequeño contingente de piezas a la colección del laboratorio.
+
+![](../images/PF-Ex-Min-s.jpg)
+
+![](../images/PF-Ex-Min-o.jpg)
+
+Un aspecto clave para maximizar el aprovechamiento del tiempo del LabA es contar con apoyo familiar. Myriam y Santi son pilares invaluables; entienden naturalmente el proceso de producción. Son la estructura que sostiene el proceso de aprendizaje y, gracias a su colaboración, es posible cumplir con el cronograma propuesto.
+
+![](../images/PF-Ex-Min-q.jpg)
+
+Tareas de limado de rugosidades, quitar soportes, despegar bordes de adherencia, lijar superficies, aumentar holguras, minimizar rozamientos. Advertir sobre el orden de montaje, faltante de piezas, fallas en la impresión, además de la contención familiar para disipar tensiones, es altamente recomendable en cualquier actividad; soy agradecido porque tengo el privilegio de contar con ello. 
+
+![](../images/PF-Ex-Min-r.jpg)
+
+![](../images/PF-Ex-Min-t.jpg)
+
+Regresamos de Minass con mucho trabajo de ensamble. La manipulación mejoró bastante con piezas más grandes. También se hicieron evidentes movimientos que no completan el ciclo como deberían y tuvimos que rediseñar bielas y mover ejes para intentar mejorar algunos desplazamientos. Las piezas que tienen elástico quedan con más resistencia y mejor movilidad.
+
+![](../images/PF-Ex-Min-u.jpg)
+
+![](../images/PF-Ex-Min-v.jpg)
+
+![](../images/PF-Ex-Min-w.jpg)
+
+Como conclusión del proceso de ensamble de la Minerva, es posible que cualquier persona logre montar un modelo si se desarrolla un buen manual de instrucciones paso a paso. Además, es necesario incluir herramientas como lima, cemento y pinzas de precisión. Como producto que reproduce un movimiento mecánico, se valora muy positivamente la interacción que ofrece y no se descarta que automatizar el mecanismo puede ser una mejora que prolongue la vida útil del modelo. 
+
+![](../images/PF-Ex-Min-x.jpg)
+
+
+Imagen de los tres prototipos que guiaron el proceso desde un modelo estático hacia un modelo funcional cinético que representa a una prensa Minerva Cropper de 1875, similar a la que tuvieron en la imprenta de la Colonia Asilo de Alienados Dr. Bernardo Etchepare en 1959.
+
 
 ## Referencias
 
