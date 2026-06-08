@@ -193,8 +193,9 @@ Hasta acá logré dar respuesta a cada instancia por separado, ¿pero cómo inte
 
 ![](../images/PF-Ex-Elec-r.jpg)
 
-El ChatGPT es de gran utilidad para avanzar en programación, para entender el funcionamiento de cada componente electrónico, para poder comprar, para poder conectar correctamente; cada duda la fui superando guiado por la IA. Hasta cuando necesité usar un multímetro, me guio paso a paso con mucha precisión y tuve éxito gracias a eso. Eso sí le dediqué muchas horas hasta que comprendí la conexión y lo bosquejé en un esquema para retener y volver a conectar en su lugar.
+El ChatGPT es de gran utilidad para avanzar en programación y generar esquemas de conexiones, para entender el funcionamiento de cada componente electrónico, para poder comprar, para poder conectar correctamente; cada duda la fui superando guiado por la IA. Hasta cuando necesité usar un multímetro, me guio paso a paso con mucha precisión y tuve éxito gracias a eso. Eso sí, le dediqué muchas horas hasta que comprendí la conexión y lo bosquejé en un esquema propio para retener y volver a conectar en su lugar.
 
+![](../images/PF-Ex-Elec-s1.jpg)
 ![](../images/PF-Ex-Elec-s.jpg)
 
 Una vez verificado el código con las dos instancias, la de giro de disco y el encendido de las luces, coloque los brazos impresos en 3D donde van insertos los botones y a la vez sostienen el panel frontal. Instalé los botones con los cables correspondientes y empecé el montaje de la instalación, conexiones y cableado según el esquema. Para ordenar los cables, imprimí separadores dibujados según el espesor de los cables y funcionaron muy bien. Fije todo con cinta de silicona de doble cara. 
