@@ -328,6 +328,7 @@ El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.
 
 ---
 ---
+
 La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
 
 ![](../images/PF-Ex-Min-p.jpg)
