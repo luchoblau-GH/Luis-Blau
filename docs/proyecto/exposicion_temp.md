@@ -49,7 +49,7 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ---
 
-**Prototipado del Atirl - Cambio de Estrategia**
+### Prototipado del Atirl - Cambio de Estrategia
 
 ![](../images/PF-ProtoAtr-a.jpg)
 
@@ -107,10 +107,11 @@ Como conclusión de este proceso, es indudable la aplicación de todo lo dado a 
  
 A pesar de las carencias propias de no tener formación específica en diseño industrial, es decir, hay muchos aspectos de diseño a mejorar. Sin embargo, haber logrado lo que se estableció en el cronograma del proyecto con un producto tangible nos deja con mucha satisfacción y ganas de seguir mejorando.
 
-Planilla de tiempo, insumos y costos del atril.
+<div align="center">
 
----
----
+❦
+
+</div>
 
 ![](../images/PF-Ex-Elec-a.jpg)
 
@@ -142,6 +143,7 @@ El sistema de motor paso a paso para el disco tiene dos pulsadores a los que sol
 Con eso logré un funcionamiento adecuado para el disco; próximo paso, modificar el diseño para incorporar la electrónica.
 
 ---
+
 Para la iluminación del atril necesito trabajar con tiras LED y el objetivo es lograr que se enciendan automáticamente con el acercamiento de una persona. Use el sensor de distancia que usamos en el módulo 4. El primer desafío fuerte es que las tiras usan una fuente externa que lleva el voltaje de 220 a 12 V. Disponía de una tira tipo NEON y otra cinta de 8 mm de ancho. La fuente que tengo sirve para ambas, pero el Chatgpt me recomendaba usar un interruptor MOSFET para interconectar la fuente y la tira LED. 
 
 ![](../images/PF-Ex-Elec-f.jpg)
@@ -183,7 +185,6 @@ Le pedí a la IA generativa que me hiciera un boceto de la placa con todos los c
 Otra instancia por resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.
 
 ---
-
 
 ![](../images/PF-Ex-Elec-a1.jpg)
 
@@ -234,7 +235,7 @@ Guillotina manual -
 
 ![](../images/PF-Ex-Min-a.jpg)
 
-## Prensa Plana
+## Prototipo Prensa Plana
 
 Esta búsqueda experimental para explicar el marco tecnológico donde la comunicación visual impresa se materializa a traves de la transferencia de tinta. Motivó un giro importante en el énfasis del Proyecto Final.
 
@@ -268,6 +269,8 @@ El prototipo se fabricó a una escala aproximada de 1/8; el modelo real mide 50 
 
 ![](../images/PF-Ex-Min-h.jpg)
 
+### Visita 1 al LABA Minas
+
 Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Es dia Florencia plantea la pregunta de porque no analisar imprimir la colección completa y le da un nuevo giro al PF.
 
 ![](../images/PF-Ex-Min-k.jpg)
@@ -278,10 +281,13 @@ Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escal
 
 ![](../images/PF-Ex-Min-m.jpg)
 
----
----
+<div align="center">
 
-## (Parentesis) - Análisis de presupuesto y plazos
+❦
+
+</div>
+
+### Análisis de presupuesto y plazos de la Exposición
 
 Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. 
 
@@ -289,13 +295,17 @@ Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con
 
 Luego del intercambio, analizando la viabilidad en tiempos de uso de la impresora y costos de insumos, nos reunimos con el equipo docente para profundizar aspectos sobre las actividades de taller que se proponen en el marco de la muestra. Se sugirió con muy buen criterio no cargar las disponibilidades del Laba hasta la presentación fechada para el 22 de junio y retomar con mejores plazos de planificación.
 
+### Tiempos
+
 En resumen, la fabricación de una muestra completa se divide en 3 instancias:
+
 - A-Impresión de los modelos de prensas estudiados por Florencia: total, 195 h más 48 horas de ensamble. 
 - B-Fabricación y montaje de 6 atriles, uno para cada modelo: 90 horas y montaje de la muestra: 12 horas, total 102 horas.
 - C-Planificación de talleres de impresión: 48 horas
 Total de tiempo: 393 horas (una persona trabajando sola y con una sola máquina).
 
-Insumos: 
+### Insumos: 
+
 - 5 kg de filamento blanco, 
 - 33 placas de MDF de 3 mm de 900x600 mm
 - 6 módulos ESP32 DEVKI TV1
@@ -326,8 +336,13 @@ Con base en esta cuantificación, le pedimos a la IA tres cotizaciones basadas e
 
 El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.292 USD) tal cual está planificada en el proyecto final de especialización. Luego de montada, los costos serían de traslado, montaje y talleres. Considerando que la muestra dure 15 itinerancias, tendríamos un costo de 620 USD, por lo que como producto cultural es altamente eficiente.
 
----
----
+<div align="center">
+
+❦
+
+</div>
+
+### Visita 2 al LABA Minas
 
 La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
 
