@@ -119,6 +119,8 @@ A pesar de las carencias propias de no tener formación específica en diseño i
 
 La incorporación de la electrónica está orientada a mejorar la experiencia del usuario en la interacción con el objeto en exhibición. Permitir que el observador pueda adaptar el mobiliario a su curiosidad con tres variables programadas electrónicamente.
 
+### Disco de giro
+
 El control del giro 360 del objeto en ambos sentidos, controlar la altura del mobiliario para acceder a una perspectiva personalizada según la altura del observador. Y la última variable es la iluminación automatizada de bienvenida; el objeto se ilumina cuando el observador se acerca al atril.
 
 Este desafío en tres etapas inicia con un motor paso a paso para el disco giratorio, donde dos botones irán posicionados en los costados del panel frontal informativo. Para lograrlo, se usó un módulo ESP32, dos pulsadores de dos bornes y un motor paso a paso 28BY-48 de 5 V con su correspondiente placa. La plataforma de programación que usé es Arduino IDE y los códigos de programación los obtuve con ChatGPT Plus. 
@@ -142,7 +144,7 @@ El sistema de motor paso a paso para el disco tiene dos pulsadores a los que sol
 
 Con eso logré un funcionamiento adecuado para el disco; próximo paso, modificar el diseño para incorporar la electrónica.
 
----
+### Iluminación
 
 Para la iluminación del atril necesito trabajar con tiras LED y el objetivo es lograr que se enciendan automáticamente con el acercamiento de una persona. Use el sensor de distancia que usamos en el módulo 4. El primer desafío fuerte es que las tiras usan una fuente externa que lleva el voltaje de 220 a 12 V. Disponía de una tira tipo NEON y otra cinta de 8 mm de ancho. La fuente que tengo sirve para ambas, pero el Chatgpt me recomendaba usar un interruptor MOSFET para interconectar la fuente y la tira LED. 
 
@@ -184,7 +186,7 @@ Le pedí a la IA generativa que me hiciera un boceto de la placa con todos los c
 
 Otra instancia por resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.
 
----
+### Todo en uno
 
 ![](../images/PF-Ex-Elec-a1.jpg)
 
@@ -219,17 +221,6 @@ La puesta a punto de la programación también llevó bastante tiempo. Ajuste la
 Al final, instalé el nuevo cable de alimentación y, con la última programación, quedó funcional la electrónica del atril, una funcionalidad de interacción simple que insume una instalación compleja.
 
 ![](../images/PF-Ex-Elec-y.jpg)
-
----
-
-Prensas tipográficas que se ponen en exibición.
-
-Prenas Plana Comon Press de 1810 - 
-Prensa Plana Minerva Cropper 1890 -
-Prensa Plano Cilindrica Werfedale de 1890 -
-Prensa Plana Minerva Heidelberg de 1920 -
-Chivalete tipográfico -
-Guillotina manual -
 
 ---
 
@@ -271,7 +262,7 @@ El prototipo se fabricó a una escala aproximada de 1/8; el modelo real mide 50 
 
 ### Visita 1 al LABA Minas
 
-Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Es dia Florencia plantea la pregunta de porque no analisar imprimir la colección completa y le da un nuevo giro al PF.
+Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Es dia Florencia plantea la pregunta de porque no analisar imprimir la colección completa y le da un nueva perspectiva al PF.
 
 ![](../images/PF-Ex-Min-k.jpg)
 
@@ -281,13 +272,64 @@ Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escal
 
 ![](../images/PF-Ex-Min-m.jpg)
 
+
+### Visita 2 al LABA Minas
+
+La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
+
+![](../images/PF-Ex-Min-p.jpg)
+
+Puntualmente, lo que detecté es que en el modelo había pequeños errores de posición de algunos sólidos, que quedaban levantados de la cama de impresión. Generando soportes en lugares extraños. Solucionados esos problemas en Fusion, se logró imprimir correctamente y dejamos un pequeño contingente de piezas a la colección del laboratorio.
+
+![](../images/PF-Ex-Min-s.jpg)
+
+![](../images/PF-Ex-Min-o.jpg)
+
+Un aspecto clave para maximizar el aprovechamiento del tiempo del LabA es contar con apoyo familiar. Myriam y Santi son pilares invaluables; entienden naturalmente el proceso de producción. Son la estructura que sostiene el proceso de aprendizaje y, gracias a su colaboración, es posible cumplir con el cronograma propuesto.
+
+![](../images/PF-Ex-Min-q.jpg)
+
+Tareas de limado de rugosidades, quitar soportes, despegar bordes de adherencia, lijar superficies, aumentar holguras, minimizar rozamientos. Advertir sobre el orden de montaje, faltante de piezas, fallas en la impresión, además de la contención familiar para disipar tensiones, es altamente recomendable en cualquier actividad; soy agradecido porque tengo el privilegio de contar con ello. 
+
+![](../images/PF-Ex-Min-r.jpg)
+
+![](../images/PF-Ex-Min-t.jpg)
+
+Regresamos de Minass con mucho trabajo de ensamble. La manipulación mejoró bastante con piezas más grandes. También se hicieron evidentes movimientos que no completan el ciclo como deberían y tuvimos que rediseñar bielas y mover ejes para intentar mejorar algunos desplazamientos. Las piezas que tienen elástico quedan con más resistencia y mejor movilidad.
+
+![](../images/PF-Ex-Min-u.jpg)
+
+![](../images/PF-Ex-Min-v.jpg)
+
+![](../images/PF-Ex-Min-w.jpg)
+
+Como conclusión del proceso de ensamble de la Minerva, es posible que cualquier persona logre montar un modelo si se desarrolla un buen manual de instrucciones paso a paso. Además, es necesario incluir herramientas como lima, cemento y pinzas de precisión. Como producto que reproduce un movimiento mecánico, se valora muy positivamente la interacción que ofrece y no se descarta que automatizar el mecanismo puede ser una mejora que prolongue la vida útil del modelo. 
+
+![](../images/PF-Ex-Min-x.jpg)
+
+
+Imagen de los tres prototipos que guiaron el proceso desde un modelo estático hacia un modelo funcional cinético que representa a una prensa Minerva Cropper de 1875, similar a la que tuvieron en la imprenta de la Colonia Asilo de Alienados Dr. Bernardo Etchepare en 1959.
+
 <div align="center">
 
 ❦
 
 </div>
 
-### Análisis de presupuesto y plazos de la Exposición
+## Análisis de presupuesto y plazos de la Exposición
+
+---
+
+Prensas tipográficas que se ponen en exibición.
+
+Prenas Plana Comon Press de 1810 - 
+Prensa Plana Minerva Cropper 1890 -
+Prensa Plano Cilindrica Werfedale de 1890 -
+Prensa Plana Minerva Heidelberg de 1920 -
+Chivalete tipográfico -
+Guillotina manual -
+
+---
 
 Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. 
 
@@ -341,43 +383,6 @@ El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.
 ❦
 
 </div>
-
-### Visita 2 al LABA Minas
-
-La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
-
-![](../images/PF-Ex-Min-p.jpg)
-
-Puntualmente, lo que detecté es que en el modelo había pequeños errores de posición de algunos sólidos, que quedaban levantados de la cama de impresión. Generando soportes en lugares extraños. Solucionados esos problemas en Fusion, se logró imprimir correctamente y dejamos un pequeño contingente de piezas a la colección del laboratorio.
-
-![](../images/PF-Ex-Min-s.jpg)
-
-![](../images/PF-Ex-Min-o.jpg)
-
-Un aspecto clave para maximizar el aprovechamiento del tiempo del LabA es contar con apoyo familiar. Myriam y Santi son pilares invaluables; entienden naturalmente el proceso de producción. Son la estructura que sostiene el proceso de aprendizaje y, gracias a su colaboración, es posible cumplir con el cronograma propuesto.
-
-![](../images/PF-Ex-Min-q.jpg)
-
-Tareas de limado de rugosidades, quitar soportes, despegar bordes de adherencia, lijar superficies, aumentar holguras, minimizar rozamientos. Advertir sobre el orden de montaje, faltante de piezas, fallas en la impresión, además de la contención familiar para disipar tensiones, es altamente recomendable en cualquier actividad; soy agradecido porque tengo el privilegio de contar con ello. 
-
-![](../images/PF-Ex-Min-r.jpg)
-
-![](../images/PF-Ex-Min-t.jpg)
-
-Regresamos de Minass con mucho trabajo de ensamble. La manipulación mejoró bastante con piezas más grandes. También se hicieron evidentes movimientos que no completan el ciclo como deberían y tuvimos que rediseñar bielas y mover ejes para intentar mejorar algunos desplazamientos. Las piezas que tienen elástico quedan con más resistencia y mejor movilidad.
-
-![](../images/PF-Ex-Min-u.jpg)
-
-![](../images/PF-Ex-Min-v.jpg)
-
-![](../images/PF-Ex-Min-w.jpg)
-
-Como conclusión del proceso de ensamble de la Minerva, es posible que cualquier persona logre montar un modelo si se desarrolla un buen manual de instrucciones paso a paso. Además, es necesario incluir herramientas como lima, cemento y pinzas de precisión. Como producto que reproduce un movimiento mecánico, se valora muy positivamente la interacción que ofrece y no se descarta que automatizar el mecanismo puede ser una mejora que prolongue la vida útil del modelo. 
-
-![](../images/PF-Ex-Min-x.jpg)
-
-
-Imagen de los tres prototipos que guiaron el proceso desde un modelo estático hacia un modelo funcional cinético que representa a una prensa Minerva Cropper de 1875, similar a la que tuvieron en la imprenta de la Colonia Asilo de Alienados Dr. Bernardo Etchepare en 1959.
 
 
 ## Referencias
