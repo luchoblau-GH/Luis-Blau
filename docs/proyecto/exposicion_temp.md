@@ -318,18 +318,14 @@ Imagen de los tres prototipos que guiaron el proceso desde un modelo estático h
 
 ## Análisis de presupuesto y plazos de la Exposición
 
----
+Prensas tipográficas que se proponen para exibición.
 
-Prensas tipográficas que se ponen en exibición.
-
-Prenas Plana Comon Press de 1810 - 
-Prensa Plana Minerva Cropper 1890 -
-Prensa Plano Cilindrica Werfedale de 1890 -
-Prensa Plana Minerva Heidelberg de 1920 -
-Chivalete tipográfico -
-Guillotina manual -
-
----
+- Prenas Plana Comon Press de 1810  
+- Prensa Plana Minerva Cropper 1890 
+- Prensa Plano Cilindrica Werfedale de 1890 
+- Prensa Plana Minerva Heidelberg de 1920 
+- Chivalete tipográfico 
+- Guillotina manual 
 
 Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. 
 
