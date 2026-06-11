@@ -374,12 +374,32 @@ Con base en esta cuantificación, le pedimos a la IA tres cotizaciones basadas e
 
 El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.292 USD) tal cual está planificada en el proyecto final de especialización. Luego de montada, los costos serían de traslado, montaje y talleres. Considerando que la muestra dure 15 itinerancias, tendríamos un costo de 620 USD, por lo que como producto cultural es altamente eficiente.
 
+
 <div align="center">
 
-❦
+❦❦❦
 
 </div>
 
+## Validación externa
+
+![](../images/PF-Ex-Valid-RTS.jpg)
+
+Como parte del proceso de desarrollo se realizaron instancias de validación con actores vinculados a la cultura gráfica y la tipografía. En abril de 2026 la propuesta fue presentada a Reset Type Studio, estudio especializado en diseño tipográfico y desarrollo de proyectos gráficos.
+
+La devolución recibida destacó especialmente la articulación entre preservación patrimonial, historia de la imprenta, tipografía y tecnologías contemporáneas de fabricación digital. Asimismo, se valoró positivamente el potencial didáctico de la muestra, la utilización de impresión 3D para la reproducción de equipamiento histórico y la combinación entre exhibición, experimentación y actividades de taller.
+
+La respuesta obtenida permitió validar la pertinencia de la propuesta desde una perspectiva profesional externa al ámbito académico, identificando además posibles escenarios de colaboración futura para el desarrollo de contenidos, producción de piezas y activaciones vinculadas a la exposición.
+
+![](../images/PF-Ex-Valid-RTS-b.jpg)
+
+![](../images/PF-Ex-Valid-RTS-a.jpg)
+
+<div align="center">
+
+❦❦❦
+
+</div>
 
 ## Referencias
 
