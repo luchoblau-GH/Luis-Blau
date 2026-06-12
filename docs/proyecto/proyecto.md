@@ -322,7 +322,7 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 
 ### 1. Concepto de Montaje
 
-La exposición estará compuesta por 8 modelos de prensas hospitalarias impresas en 3D, montadas sobre atriles diseñados y fabricados digitalmente.
+La exposición estará compuesta por 6 modelos de prensas hospitalarias impresas en 3D, montadas sobre atriles diseñados y fabricados digitalmente.
 
 Cada atril no será solo soporte:
 será un dispositivo interactivo autónomo.
@@ -339,7 +339,7 @@ Ensamblaje por encastre estructural.
 Disco superior giratorio para exhibición del modelo.
 Compartimento interno para electrónica.
 Altura aproximada: 100–110 cm.
-Diámetro disco: 35–45 cm.
+Diámetro disco: 20–35 cm.
 
 ### 3. Funcionalidades Interactivas
 Cada atril incorporará:
@@ -365,7 +365,7 @@ Movimiento suave para no desestabilizar modelo.
 El visitante puede explorar el objeto en 360°.
 
 ### 4. Prototipo Tecnológico
-Se desarrollará un atril prototipo como modelo técnico replicable.
+Se desarrollará un atril prototipo como modelo técnico replicable de libre acceso.
 Este prototipo permitirá:
 
 - Ajustar tolerancias estructurales.
@@ -410,7 +410,7 @@ El desarrollo del atril integra:
 - Ensamble estructural.
 - Programación básica.
 - Integración hardware.
-- Experiencia de usuario (UX físico).
+- Experiencia de usuario.
 
 No es solo museografía:
 es prototipo de sistema expositivo replicable.
@@ -428,6 +428,63 @@ Durante la implementación se evaluará:
 ### 9. Relación Conceptual con Gutemberg 5.0
 La imprenta fue tecnología interactiva en su tiempo.
 El atril devuelve esa condición. Del movimiento manual del tórculo al botón digital contemporáneo. Del plomo al sensor.
+
+## **Presentación**
+
+### Video del prototipo
+
+## **Conclusiones**
+
+## **Diseño distribuido**
+
+
+<p>
+  <a href="files/atril-caras-a.pdf" download>
+    Descargar atril-caras-a PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/atril-caras-b.pdf" download>
+    Descargar atril-caras-b PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/atril-caras-c.pdf" download>
+    Descargar atril-caras-c PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/atril-caras-d.pdf" download>
+    Descargar atril-caras-d PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/atril-caras-e.pdf" download>
+    Descargar atril-caras-e PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/atril-caras-f.pdf" download>
+    Descargar atril-caras-f PDF
+  </a>
+</p>
+
+<p>
+  <a href="files/Minerva-Crop-LB-285mm.3mf" download>
+    Descargar Minerva Crop LB 285 mm
+  </a>
+</p>
+
+<p>
+  <a href="files/Piezas-atril.3mf" download>
+    Descargar piezas del atril
+  </a>
+</p>
 
 ---
 
