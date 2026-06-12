@@ -444,7 +444,7 @@ El atril devuelve esa condición. Del movimiento manual del tórculo al botón d
 <p><a href="/Luis-Blau/files/atril-caras-e.pdf" download>Descargar atril-caras-e PDF</a></p>
 <p><a href="/Luis-Blau/files/atril-caras-f.pdf" download>Descargar atril-caras-f PDF</a></p>
 
-<p><a href="/Luis-Blau/files/minerva-crop-lb-285mm.3mf" download>Descargar minerva-crop-lb-285mm</a></p>
+<p><a href="/Luis-Blau/files/prensaminerva285.3mf" download>Descargar prensaminerva285</a></p>
 <p><a href="/Luis-Blau/files/piezas-atril.3mf" download>Descargar piezas-del-atril</a></p>
 
 ---
