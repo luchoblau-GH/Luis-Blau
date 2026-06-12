@@ -82,13 +82,13 @@ Mapa de aportes especificos esperables:
 
 Componentes
 
-- Modelos a escala de prensas históricas.
+- Modelos a escala de prensas históricas o funcionales.
 - Fichas técnicas normalizadas.
 - Contexto histórico y documental.
 - Registro audiovisual del proceso de modelado y fabricación.
 - Publicación de archivos 3D bajo licencia abierta.
 
-Alcance conceptual (Publico general)
+Alcance conceptual (Público general)
 La exposición propone una experiencia tangible del patrimonio técnico. El visitante no solo observa: comprende el mecanismo, la lógica estructural y el funcionamiento.
 
 El modelo físico funciona como mediador entre:
