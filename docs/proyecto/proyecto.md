@@ -438,53 +438,15 @@ El atril devuelve esa condición. Del movimiento manual del tórculo al botón d
 ## **Diseño distribuido**
 
 
-<p>
-  <a href="files/atril-caras-a.pdf" download>
-    Descargar atril-caras-a PDF
-  </a>
-</p>
+<p><a href="../files/atril-caras-a.pdf" download>Descargar atril-caras-a PDF</a></p>
+<p><a href="../files/atril-caras-b.pdf" download>Descargar atril-caras-b PDF</a></p>
+<p><a href="../files/atril-caras-c.pdf" download>Descargar atril-caras-c PDF</a></p>
+<p><a href="../files/atril-caras-d.pdf" download>Descargar atril-caras-d PDF</a></p>
+<p><a href="../files/atril-caras-e.pdf" download>Descargar atril-caras-e PDF</a></p>
+<p><a href="../files/atril-caras-f.pdf" download>Descargar atril-caras-f PDF</a></p>
 
-<p>
-  <a href="files/atril-caras-b.pdf" download>
-    Descargar atril-caras-b PDF
-  </a>
-</p>
-
-<p>
-  <a href="files/atril-caras-c.pdf" download>
-    Descargar atril-caras-c PDF
-  </a>
-</p>
-
-<p>
-  <a href="files/atril-caras-d.pdf" download>
-    Descargar atril-caras-d PDF
-  </a>
-</p>
-
-<p>
-  <a href="files/atril-caras-e.pdf" download>
-    Descargar atril-caras-e PDF
-  </a>
-</p>
-
-<p>
-  <a href="files/atril-caras-f.pdf" download>
-    Descargar atril-caras-f PDF
-  </a>
-</p>
-
-<p>
-  <a href="files/Minerva-Crop-LB-285mm.3mf" download>
-    Descargar Minerva Crop LB 285 mm
-  </a>
-</p>
-
-<p>
-  <a href="files/Piezas-atril.3mf" download>
-    Descargar piezas del atril
-  </a>
-</p>
+<p><a href="../files/Minerva-Crop-LB-285mm.3mf" download>Descargar Minerva Crop LB 285 mm</a></p>
+<p><a href="../files/piezas-atril.3mf" download>Descargar piezas del atril</a></p>
 
 ---
 
