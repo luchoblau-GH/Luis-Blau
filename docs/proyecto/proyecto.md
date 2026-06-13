@@ -1,7 +1,7 @@
 
 # **Proyecto Final** | EFDI
 
-## *Gutemberg 5.0*
+## *Gutenberg 5.0*
 
 El retorno Distribuido. Del tipo móvil al archivo STL, del taller a la nube, del plomo al PLA, del gofrado al marcado láser y de la gubia al fresado.
 
@@ -19,50 +19,50 @@ Es un proyecto de preservación del patrimonio tipográfico hospitalario mediant
 
 ### 1. Introducción *(¿Por qué?)*
 
-El proyecto surge ante la necesidad de mitigar la perdida constante de ejemplares de prensas y equipamiento de imprentas en el ambito hospitalario. Transformar este patrimonio invisible en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
+El proyecto surge ante la necesidad de mitigar la pérdida constante de ejemplares de prensas y equipamiento de imprentas en el ámbito hospitalario. Transformar este patrimonio invisible en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
 
 ![](../images/Proyecto/proy-a.png)
 
-![](../images/PF-Pres-B.jpg)
+![](../images/PF-Pres-b.jpg)
 
 Es importante evitar la pérdida de conocimiento técnico, documentar procesos productivos de imprentas para comprender su aporte a la construcción de nuestra sociedad y contribuir a la continuidad histórica.
 
-Aportar a la identidad colectiva (material e inmaterial) al turismo cultural, a la educación, a la aplicación de innovación, promover emprendimientos basados en la historia, reciclar contenidos como mecanismos de empoderar a la comunidad.
+Contribuir a la identidad colectiva, tanto material como inmaterial, fortalecer el turismo cultural, promover la educación y la innovación aplicada, e impulsar emprendimientos basados en la historia. 
 
 Fortalecer el empoderamiento simbólico exhibiendo modelos, visibilizando ejemplos, generando conocimiento basado en la práctica, en el libre acceso y en la producción con biomateriales
 
-El proyecto se estructura en dos modelos de emprendimientos que ocurren simultaneamente:
+El proyecto se estructura en dos modelos de emprendimientos que ocurren simultáneamente:
 
 Modelo Colaborativo y distributivo:
-Montaje de una exposición itinerante de modelo 3D de prensa funcional vinculada a imprentas hospitalarias para generación de catálogo de modelos on line con descargas libre. Experiencia inmersiva con dispositivos de observación interactiva.
+Montaje de una exposición itinerante compuesta por modelos funcionales impresos en 3D vinculados a imprentas hospitalarias, acompañada de un catálogo digital abierto con descargas libres. Experiencia inmersiva con dispositivos de observación interactiva.
 
 ![](../images/PF-Pres-a1.jpg)
 
 ---
 
 Modelo cerrado, distribución y venta:
-Desarrollo de una colección didacica, Kit del Impresor Escolar con tipos móviles, prensa plana y pano cilindrico orientado a niños de 6 a 7 años, docentes, estudiantes y coleccionistas como herramienta didáctica de alfabetización o de difución del método de impresión directa.
+Desarrollo de una colección didácica, Kit del Impresor Escolar con tipos móviles, prensa plana y plano cilindrico orientado a niños de 6 a 7 años, docentes, estudiantes y coleccionistas como herramienta didáctica de alfabetización o de difusión del método de impresión directa.
 
 ![](../images/Proyecto/KIT-1.png)
 
 ![](../images/PF-Pres-c.jpg)
 
 
-Ambos modelos comparten una misma base de fabricación (modelado paramétrico e impresión 3D) pero responden a objetivos distintos: uno patrimonial y divulgativo; otro pedagógico y productivo, sin embargo, pueden suseder simultaneamente como estrategia de sutentabilidad.
+Ambos modelos comparten una misma base de fabricación (modelado paramétrico e impresión 3D) pero responden a objetivos distintos: uno patrimonial y divulgativo; otro pedagógico y productivo, sin embargo, pueden suceder simultaneamente como estrategia de sustentabilidad.
 
 ### 2. Marco conceptual
 
-Posicionar la tecnología de la cultura gráfica transitando por las imprentas hospitalarias que aún conservan prensas. Rescatar mediante la reproducción digital de tecnologías históricas. Promover la transmisión a través de dispositivos de alfabetización basada en practicas lúdicas con abecedarios. Realizar el camino inverso, de los digital a lo analógico para fijar conocimiento.
+Posicionar la tecnología de la cultura gráfica transitando por las imprentas hospitalarias que aún conservan prensas. Rescatar mediante la reproducción digital de tecnologías históricas. Promover la transmisión a través de dispositivos de alfabetización basada en prácticas lúdicas con abecedarios. Realizar el camino inverso, de lo digital a lo analógico para fijar conocimiento.
 
-### 3 Obejtivo Principal *(¿Qué?)*
+### 3 Objetivo Principal *(¿Qué?)*
 
 Poner en relación al público general con la tecnología de impresión directa y sus resultados impresos.
 
-### 4 Obejtivos espesificos *(¿Cómo?)*
+### 4 Obejtivos específicos *(¿Cómo?)*
 
-- **a** - Desarrollar un sistema de tres acciones encadenados en una exposicion itinerante con replicas a escala de las prensas. 
+- **a** - Desarrollar un sistema de tres acciones encadenados en una exposición itinerante con réplicas a escala de las prensas. 
 
-- **b** - Modelos de tipos móviles, prensa plana y prensa plano cilindrica que permitan elaborar piezas impresas. 
+- **b** - Modelos de tipos móviles, prensa plana y prensa plano cilíndrica que permitan elaborar piezas impresas. 
 
 - **c** - Dispositivo que permita una observación interactiva que mejore la experiencia del usuario.
 
@@ -71,22 +71,22 @@ Poner en relación al público general con la tecnología de impresión directa 
 
 Desarrollar una muestra expositiva compuesta por modelos tridimensionales impresos en 3D de prensas tipográficas que formaron parte de imprentas hospitalarias en Uruguay.
 
-Exposición de Prensas Hospitalarias Impresas en 3D. Sistema abierto de investigacion, producción y mediación cultural.
+Exposición de Prensas Hospitalarias Impresas en 3D. Sistema abierto de investigación, producción y mediación cultural.
 Modelo de colaboración posible:
 
-- Colaboración Historica Documental
+- Colaboración Histórica Documental
 - Colaboración Técnica / Maker
 - Colaboración Educativa
 - Colaboración Artística
 - Colaboración Académica
 
-Mapa de aportes especificos esperables:
+Mapa de aportes específicos esperables:
 
 - Contexto documental
 - Mejora mecánica
 - Optimización electrónica
 - Reinterpretación visual
-- Aplicacion pedagógica
+- Aplicación pedagógica
 - Prototipado Experimental
 - Memoria Oral
 
@@ -99,7 +99,7 @@ Componentes
 - Publicación de archivos 3D bajo licencia abierta.
 
 Alcance conceptual (Público general)
-La exposición propone una experiencia tangible del patrimonio técnico. El visitante no solo observa: comprende el mecanismo, la lógica estructural y el funcionamiento.
+La exposición propone una experiencia tangible del patrimonio tecnológico. El visitante no solo observa: comprende el mecanismo, la lógica estructural y el funcionamiento.
 
 El modelo físico funciona como mediador entre:
 
@@ -107,8 +107,8 @@ El modelo físico funciona como mediador entre:
 - Cultura material
 - Fabricación digital contemporánea
 
-### b — Modelos colecionables
-Coleccion Didactica Kit de tipos moviles (6–7 años), mini tórculo plano cilindrico y prensa plana manual.
+### b — Modelos coleccionables
+Colección Didáctica Kit de tipos móviles (6–7 años), mini tórculo plano cilíndrico y prensa plana manual.
 
 ![](../images/Proyecto/KIT-4.png)
 
@@ -144,13 +144,13 @@ Torculo planos cilindrico funcional impreso en 3D para estampado de clises tambi
 
 ![](../images/Proyecto/Torculo-a.png)
 
-Prensa plana manual para estampado de clises impresos en 3D y sellos fabricoados con bioplasitcos, biomateriales o cauchos de silicona.
+Prensa plana manual para estampado de clises impresos en 3D y sellos fabricados con bioplásitcos, biomateriales o cauchos de silicona.
 
 ![](../images/Proyecto/Plana-a.png)
 
 ### c — Diseño del atril exhibidor interactivo
 
-Un dispositivo que mejore la experiencia del usuario con relación al objeto exhibido. Con la incorporación de electrónica, se amplifica el vínculo sensorial con iluminación inteligente y contemplación 360 grados, girando el objeto y no circulando a su alrededor. Activacion de mecanismos a través de Bluetooth o accediendo a portales informativos del objeto.
+Un dispositivo que mejore la experiencia del usuario con relación al objeto exhibido. Con la incorporación de electrónica, se amplifica el vínculo sensorial con iluminación inteligente y contemplación en 360, girando el objeto y no circulando a su alrededor. Activación de mecanismos a través de Bluetooth o accediendo a portales informativos del objeto.
 
 ![](../images/PF-A-g.jpg)
 
@@ -459,10 +459,10 @@ El proyecto aporta modelos funcionales, documentación abierta, metodologías de
 
 Como líneas futuras se propone ampliar la colección de modelos, consolidar la exposición itinerante, desarrollar kits educativos y fortalecer las instancias de difusión tecnológica y cultural. 
 
-Su principal innovación radica en articular patrimonio gráfico histórico, comunicación visual, fabricación digital contemporánea y experiencias interactivas de aprendizaje dentro de una propuesta expositiva integral.
+Su principal innovación radica en articular patrimonio tipográfico histórico, comunicación visual, fabricación digital contemporánea y experiencias interactivas de aprendizaje dentro de una propuesta expositiva integral.
 
 
-Los principales opstaculos a vencer son sin duda lograr productos sostenibles y sustentables, que permitan un desarrollo constante y estable de emprendimientos. Basados en necesidades concretas o en vacios con riesgo de olvido comprobable como es el caso de la tecnología de las imprentas nacionales.
+Los principales obstáculos a vencer son sin duda lograr productos sostenibles y sustentables, que permitan un desarrollo constante y estable de emprendimientos. Basados en necesidades concretas o en vacíos con riesgo de olvido comprobable como es el caso de la tecnología de las imprentas nacionales.
 
 
 
@@ -486,7 +486,7 @@ Los principales opstaculos a vencer son sin duda lograr productos sostenibles y 
 ### *Alfabeto impreso en 3d para aplicación del metodo Montessori*
 https://cults3d.com/es/modelo-3d/juegos/alfabeto-interactivo
 
-### *Open proyet - How to 3D Print Your Own Printing Press*
+### *Open projet - How to 3D Print Your Own Printing Press*
 https://openpressproject.com/blogs/news/how-to-3d-print-your-own-printing-press#:~:text=I,printing%20cloth%2Ffelts
 
 
@@ -501,7 +501,7 @@ https://prensasvillazanblog.blogspot.com/
 https://www.polymetaal.nl/siteUK/Linkdocs/JL-series/jlassembly.htm?utm_source=chatgpt.com
 
 
-### *Prensa Litografica Alejandro E.*
+### *Prensa Litográfica Alejandro E.*
 https://3dwarehouse.sketchup.com/user/7a0dea78-bba8-4514-acb8-5a17e5c79ff0/alejandro-E
 
 ### *Fabricación y planos de tórculos, prensas litográficas y de grabado.*
@@ -515,11 +515,11 @@ https://www.ign.es/resources/docs/IGNCnig/noticias/prensa_litografica.pdf#:~:tex
 https://amhistory.si.edu/docs/harris_printing_presses_graphic_arts_1996.pdf?utm_source=chatgpt.com
 
 
-### *Grabado con Fotopolimeros*
+### *Grabado con Fotopolímeros*
 https://www.domestika.org/es/blog/11142-fotograbado-con-fotopolimeros-una-revolucion-en-el-grabado
 
 
-### *Torculo Rembrandt DIY de Bill Ritchie 2014*
+### *Tórculo Rembrandt DIY de Bill Ritchie 2014*
 https://competition.adesignaward.com/design.php?ID=32121
 
 ## **Videos de la WEB**
@@ -528,7 +528,7 @@ https://competition.adesignaward.com/design.php?ID=32121
 https://www.youtube.com/watch?v=PROfesEBLcE&t=208s
 
 
-### *Mini Etching Preso Isnpiration*
+### *Mini Etching Preso Inspiration*
 https://www.youtube.com/watch?v=E3bvc0d0GJs&t=10s
 
 ### *DIY Mini Etching Press Assembly*
