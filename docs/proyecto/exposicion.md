@@ -1,11 +1,15 @@
 
-# **EXPOSICION**
 
-## Atril exibidor interactivo.
 
-![](../images/PF-A.jpg)
+![](../images/PF-portada-expo.jpg)
+
+# **Prototipado para EXPOSICIÓN**
+
+## Primera Etapa
 
 Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. Las funcionalidades estrategicas son fácil montaje y desmontaje, una vez montadas es de fácil traslado, y acopio en espacios reducidos.
+
+![](../images/PF-A.jpg)
 
 ![](../images/PF-A-a.jpg)
 
