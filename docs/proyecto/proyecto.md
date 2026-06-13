@@ -334,9 +334,11 @@ El diferencial del kit radica en:
 ### 7. Relación con la línea patrimonial
 Mientras la exposición de prensas trabaja la memoria técnica histórica, el Kit del Impresor Escolar activa esa memoria en el presente. Uno exhibe la máquina. El otro reactiva su lógica. El niño no aprende solo letras. Aprende que las letras se imprimen, que tienen cuerpo y relieve.
 
-[Ir al proceso de prototipado Tipos Móviles]( tipos-moviles.md)
-[Ir al proceso de prototipado de Prensa Plana](plana.md)
-[Ir al proceso de portotipado de Prensa Plano Cilindrica](torculo)
+- [Ir al proceso de prototipado Tipos Móviles]( tipos-moviles.md)
+
+- [Ir al proceso de prototipado de Prensa Plana](plana.md)
+
+- [Ir al proceso de portotipado de Prensa Plano Cilindrica](torculo)
 
 ---
 
