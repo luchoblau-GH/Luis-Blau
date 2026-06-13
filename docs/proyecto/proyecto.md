@@ -1,21 +1,29 @@
 
 # **Proyecto Final** | EFDI
 
-![](../images/Proyecto/proy.png)
-
----
-
 ## *Gutemberg 5.0*
 
 El retorno Distribuido. Del tipo móvil al archivo STL, del taller a la nube, del plomo al PLA, del gofrado al marcado láser y de la gubia al fresado.
 
+![](../images/PF-Pres-a.jpg)
+
+## **Ver presentación**
+
+### Video del prototipo
+
+---
+
 Es un proyecto de preservación del patrimonio tipográfico hospitalario mediante fabricación digital.
+
+![](../images/Proyecto/proy.png)
 
 ### 1. Introducción *(¿Por qué?)*
 
 El proyecto surge ante la necesidad de mitigar la perdida constante de ejemplares de prensas y equipamiento de imprentas en el ambito hospitalario. Transformar este patrimonio invisible en un activo contemporáneo de innovación aplicada, a través de metodologías de investigación, prototipado y fabricación digital, con el propósito de generar valor social, educativo y productivo para la comunidad.
 
 ![](../images/Proyecto/proy-a.png)
+
+![](../images/PF-Pres-B.jpg)
 
 Es importante evitar la pérdida de conocimiento técnico, documentar procesos productivos de imprentas para comprender su aporte a la construcción de nuestra sociedad y contribuir a la continuidad histórica.
 
@@ -26,16 +34,18 @@ Fortalecer el empoderamiento simbólico exhibiendo modelos, visibilizando ejempl
 El proyecto se estructura en dos modelos de emprendimientos que ocurren simultaneamente:
 
 Modelo Colaborativo y distributivo:
-Montaje de una exposición itinerante de modelos 3D de prensas históricas vinculadas a imprentas hospitalarias y generación de catálogo de modelos on line con descargas libre. Experiencia inmersiva con dispositivos de observación interactiva.
+Montaje de una exposición itinerante de modelo 3D de prensa funcional vinculada a imprentas hospitalarias para generación de catálogo de modelos on line con descargas libre. Experiencia inmersiva con dispositivos de observación interactiva.
 
-![](../images/Proyecto/Expo.png)
+![](../images/PF-Pres-a1.jpg)
 
 ---
 
 Modelo cerrado, distribución y venta:
-Desarrollo de un Kit del Impresor Escolar, orientado a niños de 6 a 7 años, como herramienta de alfabetización a través de la impresión directa.
+Desarrollo de una colección didacica, Kit del Impresor Escolar con tipos móviles, prensa plana y pano cilindrico orientado a niños de 6 a 7 años, docentes, estudiantes y coleccionistas como herramienta didáctica de alfabetización o de difución del método de impresión directa.
 
 ![](../images/Proyecto/KIT-1.png)
+
+![](../images/PF-Pres-c.jpg)
 
 
 Ambos modelos comparten una misma base de fabricación (modelado paramétrico e impresión 3D) pero responden a objetivos distintos: uno patrimonial y divulgativo; otro pedagógico y productivo, sin embargo, pueden suseder simultaneamente como estrategia de sutentabilidad.
@@ -48,15 +58,15 @@ Posicionar la tecnología de la cultura gráfica transitando por las imprentas h
 
 Poner en relación al público general con la tecnología de impresión directa y sus resultados impresos.
 
-### 4 Obejtivos espesificos
+### 4 Obejtivos espesificos *(¿Cómo?)*
 
 - **a** - Desarrollar un sistema de tres acciones encadenados en una exposicion itinerante con replicas a escala de las prensas. 
 
-- **b** - Prototipos simples de tipos móviles, prensa plana y prensa plano cilindrica que permitan elaborar piezas impresas. 
+- **b** - Modelos de tipos móviles, prensa plana y prensa plano cilindrica que permitan elaborar piezas impresas. 
 
-- **c** - Dispositivos que permita una oblservación interactiva.
+- **c** - Dispositivo que permita una observación interactiva que mejore la experiencia del usuario.
 
-### a -  Exposición de replicas a escala. *(¿Cómo?)*
+### a -  Exposición de replicas a escala. 
 (Modelo colaborativo y distribuido)
 
 Desarrollar una muestra expositiva compuesta por modelos tridimensionales impresos en 3D de prensas tipográficas que formaron parte de imprentas hospitalarias en Uruguay.
@@ -97,8 +107,8 @@ El modelo físico funciona como mediador entre:
 - Cultura material
 - Fabricación digital contemporánea
 
-### b — Modelo individual multidisciplinar
-Kit de tipos moviles (6–7 años), mini tórculo plano cilindrico y prensa plana manual.
+### b — Modelos colecionables
+Coleccion Didactica Kit de tipos moviles (6–7 años), mini tórculo plano cilindrico y prensa plana manual.
 
 ![](../images/Proyecto/KIT-4.png)
 
@@ -137,6 +147,12 @@ Torculo planos cilindrico funcional impreso en 3D para estampado de clises tambi
 Prensa plana manual para estampado de clises impresos en 3D y sellos fabricoados con bioplasitcos, biomateriales o cauchos de silicona.
 
 ![](../images/Proyecto/Plana-a.png)
+
+### c — Diseño del atril exhibidor interactivo
+
+Un dispositivo que mejore la experiencia del usuario con relación al objeto exhibido. Con la incorporación de electrónica, se amplifica el vínculo sensorial con iluminación inteligente y contemplación 360 grados, girando el objeto y no circulando a su alrededor. Activacion de mecanismos a través de Bluetooth o accediendo a portales informativos del objeto.
+
+![](../images/PF-A-g.jpg)
 
 
 ### 5. Metodología Integrada
@@ -197,7 +213,7 @@ se reactiva un sistema cultural completo.
 
 ## **Prototipado** 
 
-## *Kit del Impresor Escolar*
+## *Kit del Impresor*
 
 Sistema modular magnético de impresión directa para alfabetización inicial (6–7 años)
 
@@ -316,6 +332,10 @@ El diferencial del kit radica en:
 ### 7. Relación con la línea patrimonial
 Mientras la exposición de prensas trabaja la memoria técnica histórica, el Kit del Impresor Escolar activa esa memoria en el presente. Uno exhibe la máquina. El otro reactiva su lógica. El niño no aprende solo letras. Aprende que las letras se imprimen, que tienen cuerpo y relieve.
 
+[Ir al proceso de prototipado Tipos Móviles]( tipos-moviles.md)
+[Ir al proceso de prototipado de Prensa Plana](plana.md)
+[Ir al proceso de portotipado de Prensa Plano Cilindrica](torculo)
+
 ---
 
 ## *Exposición imprenta hospitalarias*
@@ -429,11 +449,23 @@ Durante la implementación se evaluará:
 La imprenta fue tecnología interactiva en su tiempo.
 El atril devuelve esa condición. Del movimiento manual del tórculo al botón digital contemporáneo. Del plomo al sensor.
 
-## **Presentación**
-
-### Video del prototipo
+[Ir al proceso de prototipado de la exposición](exposicion.md)
 
 ## **Conclusiones**
+
+Gutenberg 5.0 demuestra que la fabricación digital es una herramienta efectiva para rescatar, preservar, interpretar y difundir patrimonio tecnológico e industrial. 
+
+El proyecto aporta modelos funcionales, documentación abierta, metodologías de reproducción digital y estrategias de mediación cultural aplicables a otros contextos patrimoniales con fuerte actuación multidisciplinar. 
+
+Como líneas futuras se propone ampliar la colección de modelos, consolidar la exposición itinerante, desarrollar kits educativos y fortalecer las instancias de difusión tecnológica y cultural. 
+
+Su principal innovación radica en articular patrimonio gráfico histórico, comunicación visual, fabricación digital contemporánea y experiencias interactivas de aprendizaje dentro de una propuesta expositiva integral.
+
+
+Los principales opstaculos a vencer son sin duda lograr productos sostenibles y sustentables, que permitan un desarrollo constante y estable de emprendimientos. Basados en necesidades concretas o en vacios con riesgo de olvido comprobable como es el caso de la tecnología de las imprentas nacionales.
+
+
+
 
 ## **Diseño distribuido**
 
