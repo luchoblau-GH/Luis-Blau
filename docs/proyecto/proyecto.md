@@ -80,6 +80,8 @@ Modelo de colaboración posible:
 - Colaboración Artística
 - Colaboración Académica
 
+![](../images/PF-A-h.jpg)
+
 Mapa de aportes específicos esperables:
 
 - Contexto documental
@@ -339,6 +341,8 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 ---
 
 ## *Exposición imprenta hospitalarias*
+
+![](../images/PF-Pres-e.jpg)
 
 ### 1. Concepto de Montaje
 
