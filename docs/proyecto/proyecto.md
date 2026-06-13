@@ -338,7 +338,7 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 
 - [Ir al proceso de prototipado de Prensa Plana](plana.md)
 
-- [Ir al proceso de portotipado de Prensa Plano Cilindrica](torculo)
+- [Ir al proceso de portotipado de Prensa Plano Cilindrica](torculo.md)
 
 ---
 
