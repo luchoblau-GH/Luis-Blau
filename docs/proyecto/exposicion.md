@@ -7,7 +7,7 @@
 
 ## Primera Etapa
 
-Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. Las funcionalidades estrategicas son fácil montaje y desmontaje, una vez montadas es de fácil traslado, y acopio en espacios reducidos.
+Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. Las funcionalidades estratégicas del sistema son el montaje y desmontaje rápidos, la facilidad de traslado y el almacenamiento eficiente en espacios reducidos.
 
 ![](../images/PF-A.jpg)
 
@@ -30,11 +30,11 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 5- Luego de detectar por 20 segundos que no hay personas frente al atril, vuelve todo al modo inicial. la luz late suavemente y el audiovisual vuelve al inicio y espera.
 
 
-6-La alimentación es con batería recargable y tiene que tener encender las luces en color rojo como indicador de bateria baja cuando quede solo un 10% de la energia total.
+6-La alimentación es con batería recargable y tiene que tener encender las luces en color rojo como indicador de batería baja cuando quede solo un 10% de la energía total.
 
-Protitipado, maquetación impresa en 3D
+Prototipado, maquetación impresa en 3D
 
-La maquetación del prototipo se imprimió aproximadamente a escala 1/5. Se busca un tamaño que permita reproducir el proceso de montaje. Evaluar las olguras y analizar la resistencia estructural. Es necesario verificar las partes móviles que van encastradas una dentro de otra. Por otro lado, se proyecta los espacios donde se alojarán los componentes electrónicos, baterías y elementos que deben quedar incluidos en el equipamiento.   
+La maquetación del prototipo se imprimió aproximadamente a escala 1/5. Se busca un tamaño que permita reproducir el proceso de montaje. Evaluar las holguras y analizar la resistencia estructural. Es necesario verificar las partes móviles que van encastradas una dentro de otra. Por otro lado, se proyecta los espacios donde se alojarán los componentes electrónicos, baterías y elementos que deben quedar incluidos en el equipamiento.   
 
 ![](../images/PF-A-c.jpg)
 
@@ -43,7 +43,7 @@ La fabricación está proyectada en madera contrachapada, terminación natural d
 
 ![](../images/PF-A-d.jpg)
 
-Estimé el tiempo de fabricación usando Easel, en 7 horas estarian todas las piezas cortadas con el rúter CNC.
+Estimé el tiempo de fabricación usando Easel, en 7 horas estarían todas las piezas cortadas con el rúter CNC.
 
 ![](../images/PF-A-e.jpg)
 
@@ -53,23 +53,23 @@ Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10
 
 ---
 
-### Prototipado del Atirl - Cambio de Estrategia
+### Prototipado del Atril - Cambio de Estratégia
 
 ![](../images/PF-ProtoAtr-a.jpg)
 
-Un cambio de logística nos hizo reconfigurar la estrategia de prototipado del atril exhibidor. Cambiamos la idea original de cortar las piezas con CNC de sustracción con fresa a corte con ruter láser. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. Con Florencia medimos y ajustamos la potencia del láser con una relacion de velocidad y calidad de corte. 
+Un cambio de logística nos hizo reconfigurar la estratégia de prototipado del atril exhibidor. Se sustituyó la estrategia inicial de mecanizado CNC por un proceso de corte mediante rúter láser, aprovechando la disponibilidad de materiales y equipamiento del laboratorio. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. Con Florencia medimos y ajustamos la potencia del láser con una relación de velocidad y calidad de corte comprobada. 
 
 ![](../images/PF-ProtoAtr-c.jpg)
 
-El cambio de espesor significa repensar todos los encastres y las olguras, reconfigurar los topes y repensar cómo se fijarán. En ese momento surge la idea de combinar corte láser e impresión 3D para el ensamble. En total, usé 5 placas y media, en un tiempo de producción de unas 3 horas distribuidas en preparar el dibujo de las 19 piezas dentro de los límites del tamaño de las placas, dejando un margen de 20 mm.
+El cambio de espesor significa repensar todos los encastres y las holguras, reconfigurar los topes y repensar cómo se fijarán. En ese momento surge la idea de combinar corte láser e impresión 3D para el ensamble. En total, usé 5 placas y media, en un tiempo de producción de unas 3 horas distribuidas en preparar el dibujo de las 19 piezas dentro de los límites del tamaño de las placas, dejando un margen de 20 mm.
 
 ![](../images/PF-ProtoAtr-b2.jpg)
 
-Luego, exportar los archivos PDF para cargar al IdeaMaker, guardar el seteo para cargarlo a la memoria del ruter láser; como aún no está operativa la red, se usa pendrive para cargar los archivos en todas las máquinas. En la cortadora, se enciende con el botón rojo, se inserta la memoria y se usan las cuatro flechas del panel frontal para navegar, buscar y transferir el archivo a la memoria interna. Se entra desde el botón FILE y se navega con las flechas hasta encontrar el archivo; se selecciona con ENTER. Se establece el cero del láser sobre la placa con el botón ORIGEN; se simula con FRAME si el diseño está dentro de los límites de la placa, y se inicia presionando el botón VERDE
+Luego, exportar los archivos PDF para cargar al IdeaMaker, guardar el seteo para cargarlo a la memoria del rúter láser; como aún no está operativa la red, se usa pendrive para cargar los archivos en todas las máquinas. En la cortadora, se enciende con el botón rojo, se inserta la memoria y se usan las cuatro flechas del panel frontal para navegar, buscar y transferir el archivo a la memoria interna. Se entra desde el botón FILE y se navega con las flechas hasta encontrar el archivo; se selecciona con ENTER. Se establece el cero del láser sobre la placa con el botón ORIGEN; se simula con FRAME si el diseño está dentro de los límites de la placa, y se inicia presionando el botón VERDE
 
 ![](../images/PF-ProtoAtr-b.jpg)
 
-Luego de cortadas las 19 piezas, ensamble usando cinta de enmascarar para sujetar las partes y observe cuánta distancia de sobrepase tenía cada encastre. Comprobé que las dimensiones estuvieran correctas y que el encaje de la pieza móvil tuviera suficiente holgura para moverse dentro de la pieza mayor. En este momento, el desafío de mantener el concepto de que fuera un atril desmontable está al borde de lo inviable.
+Luego de cortadas las 19 piezas, ensamble usando cinta de enmascarar para sujetar las partes y observé cuánta distancia de sobrepase tenía cada encastre. Comprobé que las dimensiones estuvieran correctas y que el encaje de la pieza móvil tuviera suficiente holgura para moverse dentro de la pieza mayor. En esta etapa se evidenciaron las dificultades de mantener el concepto de desmontabilidad sin comprometer la estabilidad estructural del sistema.
 
 ![](../images/PF-ProtoAtr-d.jpg)
 
@@ -95,11 +95,11 @@ Una vez instaladas las ruedas, probé el atril en sus dos alturas principales co
 
 ![](../images/PF-ProtoAtr-i.jpg)
 
-Integrar la electrónica fue un reto intenso de muchísimas horas de trabajo e investigación con IA. Desde la necesidad de componentes nuevos como transistores MOSFET, conversores de voltaje, fuentes externas, al montaje físico de la instalación. El cableado en lugar de la placa electrónica es una tarea que organicé imprimiendo separadores a escala, soportes para los módulos y guías para tiras LED. Además del rediseño del disco giratorio, la incorporación de engranajes fue otro proceso de tres prototipos hasta lograr el definitivo. 
+La integración electrónica constituyó una de las etapas más complejas del proyecto, requiriendo numerosas horas de investigación, prototipado y asistencia mediante herramientas de inteligencia artificial. Desde la necesidad de componentes nuevos como transistores MOSFET, conversores de voltaje, fuentes externas, al montaje físico de la instalación. El cableado en lugar de la placa electrónica es una tarea que organicé imprimiendo separadores a escala, soportes para los módulos y guías para tiras LED. Además del rediseño del disco giratorio, la incorporación de engranajes fue otro proceso de tres prototipos hasta lograr el definitivo. 
 
 ![](../images/PF-ProtoAtr-j.jpg)
 
-Lo más complejo fue lograr un único código de programación para cargar en una sola placa ESP32, pero eso lo dejo para el capítulo de electrónica.
+El principal desafío consistió en integrar todas las funcionalidades en una única programación ejecutada desde un solo módulo ESP32, pero eso lo dejo para el capítulo de electrónica.
 
 ![](../images/PF-ProtoAtr-k.jpg)
 
@@ -137,7 +137,7 @@ Basado en los esquemas, logré una conexión exitosa, no sin muchas horas de pru
 
 ![](../images/PF-Ex-Elec-d.jpg)
 
-El sistema de motor paso a paso para el disco tiene dos pulsadores a los que solde cables dupon MM y MH. El modulo ESP32 es ideal para controlar el giro en dos sentidos. el giro inicia cuando se mantiene presionado el boton y se detiene cuando se suelta. El giro debe ser muy suave y la forma de lograrlo es usando este tipo de motor. Los cuatro cabres que conectan la placa del motor al modulo
+El sistema de motor paso a paso para el disco tiene dos pulsadores a los que soldé cables dupon MM y MH. El módulo ESP32 es ideal para controlar el giro en dos sentidos. el giro inicia cuando se mantiene presionado el botón y se detiene cuando se suelta. El giro debe ser muy suave y la forma de lograrlo es usando este tipo de motor. Los cuatro cables que conectan la placa del motor al módulo
 
 ![](../images/PF-Ex-Elec-e.jpg)
 
@@ -200,12 +200,12 @@ Hasta acá logré dar respuesta a cada instancia por separado, ¿pero cómo inte
 
 ![](../images/PF-Ex-Elec-r.jpg)
 
-El ChatGPT es de gran utilidad para avanzar en programación y generar esquemas de conexiones, para entender el funcionamiento de cada componente electrónico, para poder comprar, para poder conectar correctamente; cada duda la fui superando guiado por la IA. Hasta cuando necesité usar un multímetro, me guio paso a paso con mucha precisión y tuve éxito gracias a eso. Eso sí, le dediqué muchas horas hasta que comprendí la conexión y lo bosquejé en un esquema propio para retener y volver a conectar en su lugar.
+ChatGPT fue una herramienta fundamental durante el desarrollo electrónico del proyecto, utilizada para generar esquemas de conexión, asistir en la programación de microcontroladores, interpretar el funcionamiento de componentes y apoyar la resolución de problemas técnicos. Hasta cuando necesité usar un multímetro, me guio paso a paso con mucha precisión y tuve éxito gracias a eso. Eso sí, le dediqué muchas horas hasta que comprendí la conexión y lo bosquejé en un esquema propio para retener y volver a conectar en su lugar.
 
 ![](../images/PF-Ex-Elec-s1.jpg)
 ![](../images/PF-Ex-Elec-s.jpg)
 
-Una vez verificado el código con las dos instancias, la de giro de disco y el encendido de las luces, coloque los brazos impresos en 3D donde van insertos los botones y a la vez sostienen el panel frontal. Instalé los botones con los cables correspondientes y empecé el montaje de la instalación, conexiones y cableado según el esquema. Para ordenar los cables, imprimí separadores dibujados según el espesor de los cables y funcionaron muy bien. Fije todo con cinta de silicona de doble cara. 
+Una vez verificado el código con las dos instancias, la de giro de disco y el encendido de las luces, coloque los brazos impresos en 3D donde van insertos los botones y a la vez sostienen el panel frontal. Instalé los botones con los cables correspondientes y empecé el montaje de la instalación, conexiones y cableado según el esquema. Para ordenar los cables, imprimí separadores dibujados según el espesor de los cables y funcionaron muy bien. Fijé todo con cinta de silicona de doble cara. 
 
 ![](../images/PF-Ex-Elec-t.jpg)
 
@@ -214,7 +214,7 @@ Una vez verificado el código con las dos instancias, la de giro de disco y el e
 ![](../images/PF-Ex-Elec-v.jpg)
 
 
-Para lograr una alimentación única, lo que me sugirió la IA es que colocara un conversor a la salida de la fuente externa. Del tomacorriente a la fuente, de la fuente al conversor y del conversor alimente: el módulo ESP32, el motor paso a paso y deje dos reservas para el motor NEMA17 y otra para agregarle un motor que accionara la Minerva.
+Para lograr una alimentación única, lo que me sugirió la IA es que colocara un conversor a la salida de la fuente externa. Del tomacorriente a la fuente, de la fuente al conversor y del conversor alimenté: el módulo ESP32, el motor paso a paso y deje dos reservas para el motor NEMA17 y otra para agregarle un motor que accionara la Minerva.
 
 ![](../images/PF-Ex-Elec-x.jpg)
 
@@ -232,9 +232,9 @@ Al final, instalé el nuevo cable de alimentación y, con la última programaci�
 
 ## Prototipo Prensa Plana
 
-Esta búsqueda experimental para explicar el marco tecnológico donde la comunicación visual impresa se materializa a traves de la transferencia de tinta. Motivó un giro importante en el énfasis del Proyecto Final.
+Esta búsqueda experimental para explicar el marco tecnológico donde la comunicación visual impresa se materializa a través de la transferencia de tinta. Motivó un giro importante en el énfasis del Proyecto Final.
 
-Logré en un tiempo prudente un producto híbrido entre un modelo mecánico que no es una replica, una pieza didáctica y un objeto de autor. 
+Logré en un tiempo prudente un producto híbrido entre un modelo mecánico que no es una réplica, una pieza didáctica y un objeto de autor. 
 
 ![](../images/PF-Ex-Min-b.jpg)
 
@@ -266,7 +266,7 @@ El prototipo se fabricó a una escala aproximada de 1/8; el modelo real mide 50 
 
 ### Visita 1 al LABA Minas
 
-Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Es dia Florencia plantea la pregunta de porque no analisar imprimir la colección completa y le da un nueva perspectiva al PF.
+Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala 1/5; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Ese día Florencia planteó la pregunta de porque no analizar imprimir la colección completa y le da un nueva perspectiva al PF.
 
 ![](../images/PF-Ex-Min-k.jpg)
 
@@ -279,7 +279,7 @@ Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escal
 
 ### Visita 2 al LABA Minas
 
-La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el ruter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
+La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el rúter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. 
 
 ![](../images/PF-Ex-Min-p.jpg)
 
@@ -299,7 +299,7 @@ Tareas de limado de rugosidades, quitar soportes, despegar bordes de adherencia,
 
 ![](../images/PF-Ex-Min-t.jpg)
 
-Regresamos de Minass con mucho trabajo de ensamble. La manipulación mejoró bastante con piezas más grandes. También se hicieron evidentes movimientos que no completan el ciclo como deberían y tuvimos que rediseñar bielas y mover ejes para intentar mejorar algunos desplazamientos. Las piezas que tienen elástico quedan con más resistencia y mejor movilidad.
+Regresamos de Minas con mucho trabajo de ensamble. La manipulación mejoró bastante con piezas más grandes. También se hicieron evidentes movimientos que no completan el ciclo como deberían y tuvimos que rediseñar bielas y mover ejes para intentar mejorar algunos desplazamientos. Las piezas que tienen elástico quedan con más resistencia y mejor movilidad.
 
 ![](../images/PF-Ex-Min-u.jpg)
 
@@ -311,8 +311,17 @@ Como conclusión del proceso de ensamble de la Minerva, es posible que cualquier
 
 ![](../images/PF-Ex-Min-x.jpg)
 
-
 Imagen de los tres prototipos que guiaron el proceso desde un modelo estático hacia un modelo funcional cinético que representa a una prensa Minerva Cropper de 1875, similar a la que tuvieron en la imprenta de la Colonia Asilo de Alienados Dr. Bernardo Etchepare en 1959.
+
+Para cerrar el proceso experimental, resulta pertinente incorporar también los errores, el desperdicio de material y el tiempo invertido en las múltiples fallas que acompañaron el desarrollo del proyecto. Cada dificultad representó una oportunidad de aprendizaje y permitió identificar mejoras en el diseño, la fabricación y la integración tecnológica.
+
+Durante el desarrollo se incorporaron herramientas de inteligencia artificial generativa como apoyo para la resolución de problemas técnicos y la exploración de alternativas de diseño. Si bien estas herramientas aceleraron los procesos de aprendizaje y experimentación, la validación de cada solución requirió pruebas físicas, iteraciones sucesivas y observación directa del comportamiento de los prototipos. Esta experiencia permitió comprender tanto el potencial como las limitaciones actuales de la IA aplicada a los procesos de fabricación digital.
+
+La siguiente imagen reúne piezas descartadas, componentes de prueba y versiones intermedias desarrolladas durante el proyecto, constituyendo una evidencia material de la búsqueda constante de mejora, optimización y aprendizaje que caracterizó el proceso de trabajo.
+
+![](../images/PF-Ex-Min-z3.jpg)
+
+En fabricación digital, los errores no son únicamente desperdicio: son conocimiento materializado.
 
 <div align="center">
 
@@ -322,13 +331,13 @@ Imagen de los tres prototipos que guiaron el proceso desde un modelo estático h
 
 ## Análisis de presupuesto y plazos de la Exposición
 
-Prensas tipográficas que se proponen para exibición.
+Prensas tipográficas que se proponen para exhibición.
 
-- Prenas Plana Comon Press de 1810  
+- Prensa Plana Common Press de 1810  
 - Prensa Plana Minerva Cropper 1890 
-- Prensa Plano Cilindrica Werfedale de 1890 
+- Prensa Plano Cilíndrica Werfedale de 1890 
 - Prensa Plana Minerva Heidelberg de 1920 
-- Chivalete tipográfico 
+- Chibalete tipográfico 
 - Guillotina manual 
 
 Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. 
@@ -377,7 +386,6 @@ Con base en esta cuantificación, le pedimos a la IA tres cotizaciones basadas e
 ![](../images/PF-Ex-Min-z2.jpg)
 
 El montaje de la exposición completa ronda una inversión de 381.000 pesos. (9.292 USD) tal cual está planificada en el proyecto final de especialización. Luego de montada, los costos serían de traslado, montaje y talleres. Considerando que la muestra dure 15 itinerancias, tendríamos un costo de 620 USD, por lo que como producto cultural es altamente eficiente.
-
 
 <div align="center">
 
