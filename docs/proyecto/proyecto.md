@@ -13,7 +13,9 @@ El retorno Distribuido. Del tipo móvil al archivo STL, del taller a la nube, de
 
 ---
 
-Es un proyecto de preservación del patrimonio tipográfico hospitalario mediante fabricación digital.
+Es un proyecto de preservación del patrimonio tipográfico hospitalario mediante fabricación digital. 
+
+Gutenberg 5.0 integra patrimonio gráfico, fabricación digital, diseño interactivo y alfabetización tipográfica en una propuesta que combina exposición, educación y emprendimiento para transformar tecnologías históricas en experiencias contemporáneas de aprendizaje y difusión cultural.
 
 ![](../images/Proyecto/proy.png)
 
