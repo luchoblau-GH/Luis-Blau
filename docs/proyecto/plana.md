@@ -5,14 +5,14 @@
 
 # Prensa Plana
 
-La prensa plana, como las Minervas, se caracteriza por usar dos superficies planas para presionar el papel sobre los tipos móviles entintados y lograr la transferencia de tinta al papel. Así se logra el impreso. 
+La prensa plana, como las Minervas, se caracteriza por usar dos superficies planas para presionar el papel sobre los tipos móviles entintados y lograr la transferencia de tinta al papel. De esta forma se obtiene la impresión. 
 
 ![](../images/PF-Ex-PPla-c.jpg)
 
 ![](../images/PF-Ex-PPla-a.jpg)
 
 
-Para reproducir el sistema, diseñamos un modelo esquemático manual inspirado en una infinidad de ejemplos disponibles en la web. Con matrices realizadas con sistema de fusión aditiva destinada a niños. 
+Para reproducir el sistema, diseñamos un modelo esquemático manual inspirado en una infinidad de ejemplos disponibles en la web.  Las matrices fueron fabricadas mediante procesos de fabricación aditiva y diseñadas para su utilización en actividades educativas dirigidas a niños.
 
 ![](../images/PF-Ex-PPla-b.jpg)
 
@@ -28,7 +28,7 @@ Con este modelo de mesa se explica el método con el que se reprodujeron impreso
 
 ![](../images/PF-Ex-PPla-p.jpg)
 
-La principal innovación es la creación de matrices a través de la fabricación digital. El dibujo artesanal, la digitalización, la vectorización y el modelado 3D. Con estas posiblidades la reproducción didáctica de una prensa manual de uso escolar puede escalar a otros ámbitos y otros públicos de mayor edad. 
+La principal innovación radica en la creación de matrices mediante fabricación digital, integrando dibujo artesanal, digitalización, vectorización y modelado 3D. Con estas posibilidades la reproducción didáctica de una prensa manual de uso escolar puede escalar a otros ámbitos y otros públicos de mayor edad. 
 
 ![](../images/PF-Ex-PPla-n.jpg)
 
@@ -36,7 +36,7 @@ La principal innovación es la creación de matrices a través de la fabricació
 
 ![](../images/PF-Ex-PPla-e.jpg)
 
-La incorporación de matrices fabricadas con moldes y biomateriales que disminuyen la cantidad de presión para lograr la impresión.
+También se incorporaron matrices fabricadas mediante moldes y biomateriales, lo que permitió reducir la presión necesaria para obtener una impresión adecuada.
 
 ![](../images/PF-Ex-PPla-f.jpg)
 
