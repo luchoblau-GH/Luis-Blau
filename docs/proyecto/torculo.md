@@ -1,6 +1,6 @@
 ![](../images/PF-Ex-Tor-a.jpg)
 
-# Prensa plano-cilindrica
+# Prensa plano-cilíndrica
 
 El tórculo es una prensa plano-cilíndrica utilizada históricamente para la impresión tipográfica, el grabado y otras técnicas de estampación. Su funcionamiento se basa en el desplazamiento de una cama móvil que transporta la matriz bajo un cilindro de presión.
 
@@ -21,11 +21,11 @@ La reproducción de este sistema dentro de Gutenberg 5.0 permite comprender cóm
 
 ![](../images/PF-Ex-Tor-c.jpg)
 
-Como referencia para este proyecto citamos al tórculo conservado en el Museo Silveira Silva de Durazno, una pieza representativa de las tecnologías gráficas utilizadas en Uruguay a finales del siglo XIX y comienzos del siglo XX.
+Como referencia para este proyecto se tomó el tórculo conservado en el Museo Silveira Silva de Durazno, una pieza representativa de las tecnologías gráficas utilizadas en Uruguay a finales del siglo XIX y comienzos del siglo XX.
 
 ![](../images/PF-Ex-Tor-d.jpg)
 
-A partir de la observación se desarrolló un modelo físico mediante fabricación digital, buscando representar los principales componentes mecánicos y el principio de funcionamiento del sistema original.
+A partir de la observación y el relevamiento visual se desarrolló un modelo físico mediante fabricación digital, buscando representar los principales componentes mecánicos y el principio de funcionamiento del sistema original.
 
 ![](../images/PF-Ex-Tor-j.jpg)
 
@@ -37,15 +37,15 @@ El modelo permite explicar de forma didáctica conceptos vinculados a la impresi
 
 ![](../images/PF-Ex-Tor-g.jpg)
 
-El proceso de impresión consiste en entintar la matriz, colocar la matriz entintada en la cama del tórculo, colocar el papel sobre la matriz, colocar el fieltro sobre el papel, empujar todo hacia el rodillo girando el volante. Una vez que es tomado por el rodillo, comienza a efectuar presión, transfiriendo la tinta al papel. Luego que toda la matriz cruza por el rodillo, se levanta el papel impreso. Se repite todo para volver a reproducir.
+El proceso de impresión comienza con el entintado de la matriz, que se coloca sobre la cama móvil del tórculo. Sobre ella se dispone el papel y, posteriormente, el fieltro. Mediante el giro del volante, el conjunto avanza bajo el cilindro de presión, que transfiere la tinta al papel. Una vez completado el recorrido, se retira el impreso y el proceso puede repetirse para realizar nuevas reproducciones.
 
 ![](../images/PF-Ex-Tor-h.jpg)
 
 ![](../images/PF-Ex-Tor-i.jpg)
 
-referencias
+Referencias
 
-[Torculo museo de Durazno](https://durazno.uy/index.php/noticias-departamentales/torculo-en-el-museo-silveira-silva-reliquia-de-finales-del-1800.html)
+[Tórculo del Museo Silveira Silva de Durazno](https://durazno.uy/index.php/noticias-departamentales/torculo-en-el-museo-silveira-silva-reliquia-de-finales-del-1800.html)
 
 
 

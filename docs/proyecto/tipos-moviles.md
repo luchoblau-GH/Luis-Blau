@@ -2,7 +2,7 @@
 
 # Tipos Móviles
 
-Una experiencia con Tipos Móviles de biomateriales, PLA, madera y caucho.
+Una experiencia con tipos móviles fabricados en biomateriales, PLA, madera y caucho.
 
 ## Prototipo 1
 
@@ -15,12 +15,12 @@ El kit del impresor permite un acercamiento del antiguo método de impresión de
 
 El desafío es fabricar un sistema de estampado de letras al papel usando presión con las manos, como sellos. Un alfabeto con mayúsculas y minúsculas que puedan ser montadas en una empuñadura y que la presión de niños sea suficiente para transferir la tinta al papel.
 
-¿Cuál es la fuerza de un niño?
-¿Cuál es el tamaño adecuado de letras?
-¿Con qué tipo de tintas es el más adecuado?
-¿Cómo controlar las manchas?
-¿Cómo entintar las letras?
-¿Cómo limpiar los útiles?
+- ¿Cuál es la fuerza de un niño?
+- ¿Cuál es el tamaño adecuado de letras?
+- ¿Con qué tipo de tintas es el más adecuado?
+- ¿Cómo controlar las manchas?
+- ¿Cómo entintar las letras?
+- ¿Cómo limpiar los útiles?
 
 Una agarradera grande para amplificar una fuerza pequeña. Tipos móviles de tamaño grande, compactos y rígidos requerirán fuerza de presión. Un sistema fácil y rápido para intercambiar piezas en la agarradera. Piezas con el menor número de aristas y ángulos posibles para que sea más amigable y con menos riesgos de lesiones.
 
@@ -39,13 +39,14 @@ Los sustituí por discos con un imán de neodimio oculto en el interior del disc
 ![](../images/PF-B-c.jpg)
 
 Pude someterlo al uso infantil con la ayuda de mi sobrina Sofía, de 7 años. Observé varias dificultades en el uso:
-1. Con tintas densas a base de agua tipo pasta, el disco se sale de la agarradera.
-2. Para lograr una impresora uniforme, es necesario hacer fuerza con ambas manos.
-3. Para mejorar la transferencia, hay que usar una hoja de goma eva debajo del papel.
-4. Hay bastante enchastre de tinta; se tiene que tener delantales y servilletas húmedas.
-5 con tintas más líquidas (como las de sello convencionales); funciona mejor el conector magnético.
-6. El rodillo Entintador es un estímulo fuerte y el niño se ve tentado a pintar con él.
-7. La limpieza de los utensilios ensucia bastante con salpicaduras la zona donde se lavan las piezas.
+
+- 1 Con tintas densas a base de agua tipo pasta, el disco se sale de la agarradera.
+- 2 Para lograr una impresión uniforme, es necesario hacer fuerza con ambas manos.
+- 3 Para mejorar la transferencia, hay que usar una hoja de goma eva debajo del papel.
+- 4 Hay bastante enchastre de tinta; se tiene que tener delantales y servilletas húmedas.
+- 5 Con tintas más líquidas (como las de sello convencionales); funciona mejor el conector magnético.
+- 6 El rodillo entintador es un estímulo fuerte y el niño se ve tentado a pintar con él.
+- 7 La limpieza de los utensilios ensucia bastante con salpicaduras la zona donde se lavan las piezas.
 
 ![](../images/PF-B-i.jpg)
 
@@ -57,7 +58,7 @@ En la segunda etapa, combiné impresión 3D con técnicas de moldes para lograr 
 
 ![](../images/PF-B-j.jpg)
 
-Con el mismo diámetro, cambio drásticamente el diseño; los discos pasan a ser cilindros blandos, lo rigido son los moldes negativos para ser llenados con biomateriales; en este caso usé caucho de silicona. La letra pasa a ser bajorelieve dentro del molde.
+Con el mismo diámetro, cambio drásticamente el diseño; los discos pasan a ser cilindros blandos, lo rígido son los moldes negativos para ser llenados con biomateriales; en este caso usé caucho de silicona. La letra pasa a ser bajorelieve dentro del molde.
 
 ![](../images/PF-B-m.jpg)
 
@@ -66,8 +67,8 @@ El llenado insume 8 ml de caucho y el desmolde se puede hacer a las 10 horas de 
 ![](../images/PF-B-n.jpg)
 
 Mantenemos las dos partes del prototipo 1, una agarradera y un disco de impresión. Los nuevos problemas que tuve que resolver son: 
-1. La altura de la letra es muy baja y la base del sello llega al papel.
-2. La unión del disco de caucho y la agarradera no es propia.
+- 1 La altura de la letra es muy baja y la base del sello llega al papel.
+- 2 La unión del disco de caucho y la agarradera no es propia.
 
 ![](../images/PF-B-ñ.jpg)
 
@@ -82,7 +83,8 @@ Se aumentó el bajorelieve en el molde a 2 mm y en la agarradera el nicho donde 
 
 El proceso de impresión de una unidad tarda 33 minutos. Para un alfabeto completo con mayúsculas, minúsculas y números, serían 64 unidades, es decir, 128 piezas en total. El tiempo que insume es de 35 horas para un juego completo. Cada par de piezas lleva 12 g de filamento, en total se necesitan 800 g. El caucho de silicona por unidad es de 8 ml; en total insume 520 ml. Para poder desmoldar, hay que esperar 12 h.
 
-En esta instancia no solo se está promoviendo imprimir con tipos móviles, sino que también se está reproduciendo el proceso de fabricación de un tipo móvil, el verdadero aporte de Johannes; él inventó el molde para fabricar tipos móviles de plomo, lo que posibilitó la reproducción de textos de forma masiva en 1450.
+En esta instancia no solo se promueve la impresión con tipos móviles, sino que también se reproduce el principio tecnológico que constituye el principal aporte de Johannes Gutenberg a la historia de la comunicación visual: la fabricación seriada de caracteres intercambiables. Su innovación no fue únicamente la prensa de imprimir, sino el desarrollo de un sistema que permitió producir tipos móviles de forma repetible y combinarlos para reproducir textos de manera masiva. Mediante herramientas contemporáneas de fabricación digital, este proyecto recupera y reinterpreta ese principio tecnológico fundacional, vinculando patrimonio gráfico, diseño y producción material.
+
 
 ![](../images/PF-B-l.jpg)
 ![](../images/PF-B-w.jpg)
@@ -101,12 +103,11 @@ En ese sentido, imprimí una letra con cada estilo de relleno interior que viene
 
 ## Tipos móviles de MDF
 
-Los tipos móviles de madera surgieron entre 1820 y 1830 por necesidades técnicas; para hacer grandes titulares en afiches, fundir en plomo era costoso y muy pesado. Por ese motivo surgen los tipos de madera como solución industrial. Para fabricarlos, el tipógrafo Darius Wells inventó alrededor de 1820 la fresadora lateral para tallar tipos de madera. Luego, a partir de eso, se desarrolló el pantógrafo mecanizado que copiaba en un extremo la letra y la ampliaba en el otro tallando con una fresa. Se podría decir que es un antecedente directo del ruter CNC.
+Los tipos móviles de madera surgieron entre 1820 y 1830 por necesidades técnicas; para hacer grandes titulares en afiches, fundir en plomo era costoso y muy pesado. Por ese motivo surgen los tipos de madera como solución industrial. Para fabricarlos, el tipógrafo Darius Wells inventó alrededor de 1820 la fresadora lateral para tallar tipos de madera. Luego, a partir de eso, se desarrolló el pantógrafo mecanizado que copiaba en un extremo la letra y la ampliaba en el otro tallando con una fresa. Se podría decir que es un antecedente directo del rúter CNC.
 
 ![](../images/PF-B-u.jpg)
 
 En el rúter CNC del lab de Durazno tallamos dos tipos de madera en MDF de 8 mm como ejercicio de uso de la tecnología, y la apliqué directamente a mi proyecto final.
-
 
 ![](../images/MT08-d.jpg)
 
@@ -115,6 +116,8 @@ En el rúter CNC del lab de Durazno tallamos dos tipos de madera en MDF de 8 mm 
 Para cerrar lo que considero un reciclaje patrimonial integral, seleccioné una familia tipográfica fundida en Montevideo y adquirida por una de las imprentas hospitalarias estudiadas. Bodoni es la tipografía que se usará en el proceso de prototipado de los moldes de los sellos.
 
 ![](../images/PF-B-v.jpg)
+
+La experimentación con tipos móviles permitió integrar patrimonio tipográfico, fabricación digital y diseño didáctico en un único sistema. Los distintos prototipos desarrollados demuestran que es posible reinterpretar tecnologías históricas mediante herramientas contemporáneas, generando nuevas oportunidades de aprendizaje, creación y difusión cultural.
 
 ---
 
