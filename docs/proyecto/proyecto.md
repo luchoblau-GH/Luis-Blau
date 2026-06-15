@@ -343,8 +343,6 @@ Mientras la exposición de prensas trabaja la memoria técnica histórica, el Ki
 
 - [Ir al proceso de portotipado de Prensa Plano-cilíndrica](torculo.md)
 
-- [Ir al proceso de portotipado de Atril y Minerva de Expo](exposicion.md)
-
 
 ---
 
@@ -461,7 +459,7 @@ Durante la implementación se evaluará:
 La imprenta fue tecnología interactiva en su tiempo.
 El atril devuelve esa condición. Del movimiento manual del tórculo al botón digital contemporáneo. Del plomo al sensor.
 
-[Ir al proceso de prototipado de la exposición](exposicion.md)
+[Ir al proceso de prototipado de la Exposición Atril y Minerva](exposicion.md)
 
 ## **Conclusiones**
 
