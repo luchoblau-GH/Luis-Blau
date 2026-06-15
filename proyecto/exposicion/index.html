@@ -953,8 +953,8 @@
                 
                 
                 <p><img alt="" src="../../images/PF-portada-expo.jpg" /></p>
-<h1 id="prototipado-para-exposicion"><strong>Prototipado para EXPOSICIÓN</strong><a class="headerlink" href="#prototipado-para-exposicion" title="Permanent link">&para;</a></h1>
-<h2 id="primera-etapa">Primera Etapa<a class="headerlink" href="#primera-etapa" title="Permanent link">&para;</a></h2>
+<h1 id="prototipado-para-exposicion"><strong>Prototipado para EXPOSICIÓN</strong></h1>
+<h2 id="primera-etapa">Primera Etapa</h2>
 <p>Atril o vitrina para exhibición de maquetas impresas en 3D. Es un equipamiento interactivo de forma cúbica, ensamblada en dos partes, una encastrada en la otra y en la parte superior una campana rectangular de acrílico transparente con un baño de luz desde abajo hacia arriba. Tendrá electrónica y programación para control de iluminación, audio, giro y ajuste de altura. Las funcionalidades estratégicas del sistema son el montaje y desmontaje rápidos, la facilidad de traslado y el almacenamiento eficiente en espacios reducidos.</p>
 <p><img alt="" src="../../images/PF-A.jpg" /></p>
 <p><img alt="" src="../../images/PF-A-a.jpg" /></p>
@@ -978,7 +978,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p>Ensamblar la maqueta del prototipo con todas las piezas impresas en 3D insume 10 minutos; con las piezas reales, el encastre y el montaje se estima en un máximo de 2 horas, incluida la instalación de las ruedas. Como herrajes de seguridad para un cierre que le dé firmeza y solidez al sistema, se pretende usar tornillos con tuercas incrustadas ocultas.</p>
 <p><img alt="" src="../../images/PF-A-f.jpg" /></p>
 <hr />
-<h3 id="prototipado-del-atril-cambio-de-estrategia">Prototipado del Atril - Cambio de Estratégia<a class="headerlink" href="#prototipado-del-atril-cambio-de-estrategia" title="Permanent link">&para;</a></h3>
+<h3 id="prototipado-del-atril-cambio-de-estrategia">Prototipado del Atril - Cambio de Estratégia</h3>
 <p><img alt="" src="../../images/PF-ProtoAtr-a.jpg" /></p>
 <p>Un cambio de logística nos hizo reconfigurar la estratégia de prototipado del atril exhibidor. Se sustituyó la estrategia inicial de mecanizado CNC por un proceso de corte mediante rúter láser, aprovechando la disponibilidad de materiales y equipamiento del laboratorio. En el laboratorio de Minas había disponible MDF de 3 mm y decidí adaptar el diseño. Lo primero fue pasar de 10 a 3 mm en todas las piezas CAD. Luego pasamos al CAM distribuyendo las piezas en planchas de 600x900 mm. Con Florencia medimos y ajustamos la potencia del láser con una relación de velocidad y calidad de corte comprobada. </p>
 <p><img alt="" src="../../images/PF-ProtoAtr-c.jpg" /></p>
@@ -1014,9 +1014,9 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 </div>
 
 <p><img alt="" src="../../images/PF-Ex-Elec-a.jpg" /></p>
-<h2 id="electronica">Electrónica<a class="headerlink" href="#electronica" title="Permanent link">&para;</a></h2>
+<h2 id="electronica">Electrónica</h2>
 <p>La incorporación de la electrónica está orientada a mejorar la experiencia del usuario en la interacción con el objeto en exhibición. Permitir que el observador pueda adaptar el mobiliario a su curiosidad con tres variables programadas electrónicamente.</p>
-<h3 id="disco-de-giro">Disco de giro<a class="headerlink" href="#disco-de-giro" title="Permanent link">&para;</a></h3>
+<h3 id="disco-de-giro">Disco de giro</h3>
 <p>El control del giro 360 del objeto en ambos sentidos, controlar la altura del mobiliario para acceder a una perspectiva personalizada según la altura del observador. Y la última variable es la iluminación automatizada de bienvenida; el objeto se ilumina cuando el observador se acerca al atril.</p>
 <p>Este desafío en tres etapas inicia con un motor paso a paso para el disco giratorio, donde dos botones irán posicionados en los costados del panel frontal informativo. Para lograrlo, se usó un módulo ESP32, dos pulsadores de dos bornes y un motor paso a paso 28BY-48 de 5 V con su correspondiente placa. La plataforma de programación que usé es Arduino IDE y los códigos de programación los obtuve con ChatGPT Plus. </p>
 <p><img alt="" src="../../images/PF-Ex-Elec-b.jpg" /></p>
@@ -1029,7 +1029,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p>1- Necesito que generes una imagen con boceto, tipo TinkerCAD, para conectar un motor paso a paso a un módulo ESP32 como los de la imagen.
 2- Necesito el código de programación para controlar el giro del motor hacia la derecha y hacia la izquierda con los dos pulsadores.</p>
 <p>Con eso logré un funcionamiento adecuado para el disco; próximo paso, modificar el diseño para incorporar la electrónica.</p>
-<h3 id="iluminacion">Iluminación<a class="headerlink" href="#iluminacion" title="Permanent link">&para;</a></h3>
+<h3 id="iluminacion">Iluminación</h3>
 <p>Para la iluminación del atril necesito trabajar con tiras LED y el objetivo es lograr que se enciendan automáticamente con el acercamiento de una persona. Use el sensor de distancia que usamos en el módulo 4. El primer desafío fuerte es que las tiras usan una fuente externa que lleva el voltaje de 220 a 12 V. Disponía de una tira tipo NEON y otra cinta de 8 mm de ancho. La fuente que tengo sirve para ambas, pero el Chatgpt me recomendaba usar un interruptor MOSFET para interconectar la fuente y la tira LED. </p>
 <p><img alt="" src="../../images/PF-Ex-Elec-f.jpg" /></p>
 <p><img alt="" src="../../images/PF-Ex-Elec-g.jpg" /></p>
@@ -1050,7 +1050,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p>Le pedí a la IA generativa que me hiciera un boceto de la placa con todos los circuitos y así me presentó la primera representación de lo que podría llegar a ser.</p>
 <p><img alt="" src="../../images/PF-Ex-Elec-p.jpg" /></p>
 <p>Otra instancia por resolver la elevación telescópica del atril mediante un eje con roscado y otro motor paso a paso.</p>
-<h3 id="todo-en-uno">Todo en uno<a class="headerlink" href="#todo-en-uno" title="Permanent link">&para;</a></h3>
+<h3 id="todo-en-uno">Todo en uno</h3>
 <p><img alt="" src="../../images/PF-Ex-Elec-a1.jpg" /></p>
 <p>Hasta acá logré dar respuesta a cada instancia por separado, ¿pero cómo integro todo esto al atril? ¿Cómo hago con los recursos y los conocimientos que tengo para ensamblar y montar en la realidad todos estos componentes? ¿Es posible controlar varias instancias con un mismo módulo ESP32? ¿Cómo alimento con electricidad a todos los componentes con un solo cable de entrada? Es así, que inicia una nueva etapa, primero resolviendo una programación única y después diseñando soportes para fijar los componentes al cajón. </p>
 <p><img alt="" src="../../images/PF-Ex-Elec-q.jpg" /></p>
@@ -1070,7 +1070,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p><img alt="" src="../../images/PF-Ex-Elec-y.jpg" /></p>
 <hr />
 <p><img alt="" src="../../images/PF-Ex-Min-a.jpg" /></p>
-<h2 id="prototipo-prensa-plana">Prototipo Prensa Plana<a class="headerlink" href="#prototipo-prensa-plana" title="Permanent link">&para;</a></h2>
+<h2 id="prototipo-prensa-plana">Prototipo Prensa Plana</h2>
 <p>Esta búsqueda experimental para explicar el marco tecnológico donde la comunicación visual impresa se materializa a través de la transferencia de tinta. Motivó un giro importante en el énfasis del Proyecto Final.</p>
 <p>Logré en un tiempo prudente un producto híbrido entre un modelo mecánico que no es una réplica, una pieza didáctica y un objeto de autor. </p>
 <p><img alt="" src="../../images/PF-Ex-Min-b.jpg" /></p>
@@ -1087,13 +1087,13 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p>El prototipo se fabricó a una escala aproximada de &#8539;; el modelo real mide 50 cm de ancho por 148 cm de altura. El prototipo mide 20 cm de altura por 13 de ancho; corresponde al aprovechamiento máximo de la cama de impresión que disponemos, que es de 22x22x22 cm.</p>
 <p><img alt="" src="../../images/PF-Ex-Min-i.jpg" /></p>
 <p><img alt="" src="../../images/PF-Ex-Min-h.jpg" /></p>
-<h3 id="visita-1-al-laba-minas">Visita 1 al LABA Minas<a class="headerlink" href="#visita-1-al-laba-minas" title="Permanent link">&para;</a></h3>
+<h3 id="visita-1-al-laba-minas">Visita 1 al LABA Minas</h3>
 <p>Iniciamos en el LabA de Minas el proceso de fabricación de modelo final a escala &#8533;; corresponde a un modelo de 28 cm de altura. Se imprimió en una Bambulab H2S ASM, cuya capacidad es de 34x34x34 cm instalada en el laboratorio de la sede UTEC de Minas. Ese día Florencia planteó la pregunta de porque no analizar imprimir la colección completa y le da un nueva perspectiva al PF.</p>
 <p><img alt="" src="../../images/PF-Ex-Min-k.jpg" /></p>
 <p><img alt="" src="../../images/PF-Ex-Min-l.jpg" /></p>
 <p><img alt="" src="../../images/PF-Ex-Min-n.jpg" /></p>
 <p><img alt="" src="../../images/PF-Ex-Min-m.jpg" /></p>
-<h3 id="visita-2-al-laba-minas">Visita 2 al LABA Minas<a class="headerlink" href="#visita-2-al-laba-minas" title="Permanent link">&para;</a></h3>
+<h3 id="visita-2-al-laba-minas">Visita 2 al LABA Minas</h3>
 <p>La segunda visita al LabA estaba coordinada para ensamblar las piezas que Florencia terminó de imprimir. También cortar el atril en el rúter láser.  Verificamos que estuvieran todas las piezas y organizamos la reimpresión de piezas que no quedaron con algún defecto. </p>
 <p><img alt="" src="../../images/PF-Ex-Min-p.jpg" /></p>
 <p>Puntualmente, lo que detecté es que en el modelo había pequeños errores de posición de algunos sólidos, que quedaban levantados de la cama de impresión. Generando soportes en lugares extraños. Solucionados esos problemas en Fusion, se logró imprimir correctamente y dejamos un pequeño contingente de piezas a la colección del laboratorio.</p>
@@ -1122,7 +1122,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 
 </div>
 
-<h2 id="analisis-de-presupuesto-y-plazos-de-la-exposicion">Análisis de presupuesto y plazos de la Exposición<a class="headerlink" href="#analisis-de-presupuesto-y-plazos-de-la-exposicion" title="Permanent link">&para;</a></h2>
+<h2 id="analisis-de-presupuesto-y-plazos-de-la-exposicion">Análisis de presupuesto y plazos de la Exposición</h2>
 <p>Prensas tipográficas que se proponen para exhibición.</p>
 <ul>
 <li>Prensa Plana Common Press de 1810  </li>
@@ -1135,7 +1135,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <p>Nos propusimos analizar los tiempos de fabricación y montaje de una muestra con 6 modelos y encontrar un marco adecuado para la exposición. Se ajustó la escala y se prepararon los archivos con el objetivo de establecer tiempos, insumos y costos. </p>
 <p><img alt="" src="../../images/PF-Ex-Min-y.jpg" /></p>
 <p>Luego del intercambio, analizando la viabilidad en tiempos de uso de la impresora y costos de insumos, nos reunimos con el equipo docente para profundizar aspectos sobre las actividades de taller que se proponen en el marco de la muestra. Se sugirió con muy buen criterio no cargar las disponibilidades del Laba hasta la presentación fechada para el 22 de junio y retomar con mejores plazos de planificación.</p>
-<h3 id="tiempos">Tiempos<a class="headerlink" href="#tiempos" title="Permanent link">&para;</a></h3>
+<h3 id="tiempos">Tiempos</h3>
 <p>En resumen, la fabricación de una muestra completa se divide en 3 instancias:</p>
 <ul>
 <li>A-Impresión de los modelos de prensas estudiados por Florencia: total, 195 h más 48 horas de ensamble. </li>
@@ -1143,7 +1143,7 @@ Materialidad: Placa compensada, terminación melamínico de madera de 15 mm de e
 <li>C-Planificación de talleres de impresión: 48 horas
 Total de tiempo: 393 horas (una persona trabajando sola y con una sola máquina).</li>
 </ul>
-<h3 id="insumos">Insumos:<a class="headerlink" href="#insumos" title="Permanent link">&para;</a></h3>
+<h3 id="insumos">Insumos:</h3>
 <ul>
 <li>5 kg de filamento blanco, </li>
 <li>33 placas de MDF de 3 mm de 900x600 mm</li>
@@ -1176,7 +1176,7 @@ Total de tiempo: 393 horas (una persona trabajando sola y con una sola máquina)
 
 </div>
 
-<h2 id="validacion-externa">Validación externa<a class="headerlink" href="#validacion-externa" title="Permanent link">&para;</a></h2>
+<h2 id="validacion-externa">Validación externa</h2>
 <p><img alt="" src="../../images/PF-Ex-Valid-RTS.jpg" /></p>
 <p>Como parte del proceso de desarrollo se realizaron instancias de validación con actores vinculados a la cultura gráfica y la tipografía. En abril de 2026 la propuesta fue presentada a Reset Type Studio, estudio especializado en diseño tipográfico y desarrollo de proyectos gráficos.</p>
 <p>La devolución recibida destacó especialmente la articulación entre preservación patrimonial, historia de la imprenta, tipografía y tecnologías contemporáneas de fabricación digital. Asimismo, se valoró positivamente el potencial didáctico de la muestra, la utilización de impresión 3D para la reproducción de equipamiento histórico y la combinación entre exhibición, experimentación y actividades de taller.</p>
@@ -1189,7 +1189,7 @@ Total de tiempo: 393 horas (una persona trabajando sola y con una sola máquina)
 
 </div>
 
-<h2 id="referencias">Referencias<a class="headerlink" href="#referencias" title="Permanent link">&para;</a></h2>
+<h2 id="referencias">Referencias</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5UFos_ysz8?si=KZxNokWpNHow3Wtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p><a href="https://typeandstyle.blogspot.com/2014/08/letterpress-restoration-done.html?m=1">Restauración prensa cropper</a></p>
