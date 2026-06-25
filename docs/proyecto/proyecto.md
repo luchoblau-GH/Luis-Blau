@@ -479,6 +479,19 @@ Los principales obstáculos a vencer son sin duda lograr productos sostenibles y
 
 ## **Diseño distribuido**
 
+![](../images/PF-Folleto-Atril-b.jpg)
+
+![](../images/PF-Folleto-Atril-a.jpg)
+
+<p><a href="/Luis-Blau/files/Manual Atril.pdf" download>Descargar Manual Atril PDF</a></p>
+
+![](../images/PF-Folleto-Minerva.jpg)
+
+<p><a href="/Luis-Blau/files/Manual Minerva.pdf" download>Descargar Manual Minerva PDF</a></p>
+
+---
+
+
 <p><a href="/Luis-Blau/files/atril-caras-a.pdf" download>Descargar atril-caras-a PDF</a></p>
 <p><a href="/Luis-Blau/files/atril-caras-b.pdf" download>Descargar atril-caras-b PDF</a></p>
 <p><a href="/Luis-Blau/files/atril-caras-c.pdf" download>Descargar atril-caras-c PDF</a></p>
