@@ -9,7 +9,14 @@ El retorno Distribuido. Del tipo móvil al archivo STL, del taller a la nube, de
 
 ## **Ver presentación**
 
-### Video del prototipo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EfVd3dbOOGQ?si=3P9AY0hwUdT9BzY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Video del prototipo en 60 segundos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNy6FYi0IHU?si=b_eZuC1GKZbUU-Q_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ---
 
